@@ -8,10 +8,10 @@ The repiository has two directories: Lab_2 and Lab_3, with the correspondence to
 This directory contains the main.py module, which allows navigation through a json file.
 There are also several json files for training.
 The program is based on the infinite while loop, which allows navigation through any json file for an infinite amount of times.
-Libraries in the program are:
+Libraries in the program are (used in order to read the file and to exit the program):
 - json
 - sys
-They are used to read the file and to exit the program.
+
 
 ## Lab_3
 This directory contains the application.py module, which is a web server to get a map of Twitter friends' locations.
