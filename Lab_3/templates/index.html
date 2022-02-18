@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Application</title>
+    <style>
+        body {
+  background-color: yellowgreen;
+}
+        h1 {
+  background-color: lavender;
+}
+        form {
+            background-color: blueviolet;
+        }
+
+    </style>
+</head>
+<body>
+<div class="input_data">
+    <form action="/create/map" method="post">
+        <center>
+            <h1>
+                <label for="content">Enter the username and the amount of people</label>
+            </h1>
+        </center>
+
+        <br>
+        <center>
+            <input required name="domain" placeholder="Username" type="text"/>
+        </center>
+        <br>
+        <center>
+            <input name="amount" placeholder="Number" type="text"/>
+        </center>
+        <br>
+        <center>
+            <label for="content">Make the map</label>
+            <input type="submit" value="Start"/>
+        </center>
+    </form>
+</div>
+</body>
+</html>
