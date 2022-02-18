@@ -1,17 +1,20 @@
-import map_maker
 from flask import Flask, request, render_template
+import Lab_3.map_maker as mp
+
 app = Flask(__name__)
 
 
 @app.route("/")
-@app.route("/name")
 def name():
-    return "Program to know the location of the Twitter friends."
+    return render_template('index.html')
 
-@app.route("/get_data")
+
+@app.route("/create/map", methods=["GET", "POST"])
 def get():
-    map_maker.map_maker("kirilltm04", 10)
+    dom = request.form.get("domain")
+    num = request.form.get("amount")
+    return mp.main(dom, num)
 
 
 if __name__ == "__main__":
-    app.run(debug=True, )
+    app.run(debug=True)

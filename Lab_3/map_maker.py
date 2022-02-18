@@ -18,7 +18,6 @@ def get_json_file_from_api(username: str) -> json:
     headers = {
         'Authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAAMjqZAEAAAAAyG9kB4mUtaz%2BwBOx1qGjAz4qf1'
                          '8%3Dz5SOmNAmwDaPPHYTYPnOsu3IOpjSmvKf2yC7WcoTp9jpE8CSV8'
-        # bearer tocken
     }
     user_id = requests.get(f"https://api.twitter.com/2/users/by/username/{username}",
                            headers=headers).json()["data"]["id"]
@@ -77,22 +76,17 @@ def map_maker(username: str, number_of_friends: int) -> folium:
     :return: folium map
     (str, int -> folium)
     """
-    data = coordinate_finder(username)[:number_of_friends]
+    data = coordinate_finder(username)[:int(number_of_friends)]
     m = folium.Map(zoom_start=4)
     for i in data:
         folium.Marker(location=(i[2], i[3]), tooltip=i[0], popup=i[1],
                       icon=folium.Icon(color="red")).add_to(m)
     m.save("Map.html")
+    return m.get_root().render()
 
 
-def main():
+def main(username, num):
     """
     Main function to start the program.
     """
-    acc = str(input())
-    num = int(input())
-    map_maker(acc, num)
-
-
-if __name__ == "__main__":
-    main()
+    return map_maker(username, num)
