@@ -8,13 +8,22 @@ The repiository has two directories: Lab_2 and Lab_3, with the correspondence to
 This directory contains the main.py module, which allows navigation through a json file.
 There are also several json files for training.
 The program is based on the infinite while loop, which allows navigation through any json file for an infinite amount of times.
-
+Libraries in the program are:
+- json
+- sys
+They are used to read the file and to exit the program.
 
 ## Lab_3
 This directory contains the application.py module, which is a web server to get a map of Twitter friends' locations.
 The map_maker.py module is the one creating the map and giving it to the server
 The index.html is the html code for the web server.
-This is the web server:
+The libraries used in the modules are:
+- flask
+- geopy
+- folium
+- requests
+
+This is the example of the web server:
 <img width="934" alt="Screenshot 2022-02-18 at 20 08 10" src="https://user-images.githubusercontent.com/92577092/154738389-a4200e87-6856-4750-83ac-2081e49b3ec8.png">
 
 And this is an example of a map created after "kirilltm04" and 50 are inputed:
