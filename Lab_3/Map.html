@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_65dbd2f624d44c6183907f85a560d213 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_65dbd2f624d44c6183907f85a560d213" ></div>
+        
+</body>
+<script>    
+    
+            var map_65dbd2f624d44c6183907f85a560d213 = L.map(
+                "map_65dbd2f624d44c6183907f85a560d213",
+                {
+                    center: [0, 0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 1,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_2d3aa29715e24656b0660d4c403381ab = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_65dbd2f624d44c6183907f85a560d213);
+        
+    
+            var marker_f51ce19677fe48f7bd150020585cadb5 = L.marker(
+                [51.0, 10.0],
+                {}
+            ).addTo(map_65dbd2f624d44c6183907f85a560d213);
+        
+    
+            var icon_262946a388884eeebfdbf939210af86c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_f51ce19677fe48f7bd150020585cadb5.setIcon(icon_262946a388884eeebfdbf939210af86c);
+        
+    
+        var popup_5ea937e068784012821544b520b95fe9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7c41f3d3d6064bb5ada169f77569426e = $(`<div id="html_7c41f3d3d6064bb5ada169f77569426e" style="width: 100.0%; height: 100.0%;">Ruslan Ponomariov ♔</div>`)[0];
+            popup_5ea937e068784012821544b520b95fe9.setContent(html_7c41f3d3d6064bb5ada169f77569426e);
+        
+
+        marker_f51ce19677fe48f7bd150020585cadb5.bindPopup(popup_5ea937e068784012821544b520b95fe9)
+        ;
+
+        
+    
+    
+            marker_f51ce19677fe48f7bd150020585cadb5.bindTooltip(
+                `<div>
+                     Europe
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1c93b81b7d7e4aa1a200aadf556652f6 = L.marker(
+                [40.4167047, -3.7035825],
+                {}
+            ).addTo(map_65dbd2f624d44c6183907f85a560d213);
+        
+    
+            var icon_c25ccbae6778423a86818a928abb1137 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_1c93b81b7d7e4aa1a200aadf556652f6.setIcon(icon_c25ccbae6778423a86818a928abb1137);
+        
+    
+        var popup_03dc2333510e4d78bafadac1073f6793 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0ee20653849a4fcda74c2ac7946949d8 = $(`<div id="html_0ee20653849a4fcda74c2ac7946949d8" style="width: 100.0%; height: 100.0%;">Iker Casillas</div>`)[0];
+            popup_03dc2333510e4d78bafadac1073f6793.setContent(html_0ee20653849a4fcda74c2ac7946949d8);
+        
+
+        marker_1c93b81b7d7e4aa1a200aadf556652f6.bindPopup(popup_03dc2333510e4d78bafadac1073f6793)
+        ;
+
+        
+    
+    
+            marker_1c93b81b7d7e4aa1a200aadf556652f6.bindTooltip(
+                `<div>
+                     Madrid, Comunidad de Madrid
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_98e82097a8dd4862bcd4f9a4985bda14 = L.marker(
+                [34.0536909, -118.242766],
+                {}
+            ).addTo(map_65dbd2f624d44c6183907f85a560d213);
+        
+    
+            var icon_69d8f3e1468c4336ac705dede5ab1305 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_98e82097a8dd4862bcd4f9a4985bda14.setIcon(icon_69d8f3e1468c4336ac705dede5ab1305);
+        
+    
+        var popup_f6c7b57c562d494e804c96eed9b6a321 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9b39667177564935a9bd006f5fd72bcb = $(`<div id="html_9b39667177564935a9bd006f5fd72bcb" style="width: 100.0%; height: 100.0%;">Andrea Botez</div>`)[0];
+            popup_f6c7b57c562d494e804c96eed9b6a321.setContent(html_9b39667177564935a9bd006f5fd72bcb);
+        
+
+        marker_98e82097a8dd4862bcd4f9a4985bda14.bindPopup(popup_f6c7b57c562d494e804c96eed9b6a321)
+        ;
+
+        
+    
+    
+            marker_98e82097a8dd4862bcd4f9a4985bda14.bindTooltip(
+                `<div>
+                     Los Angeles, CA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_fbfc27b14a6f4ac79ab347e776ddb256 = L.marker(
+                [53.2190652, 6.5680077],
+                {}
+            ).addTo(map_65dbd2f624d44c6183907f85a560d213);
+        
+    
+            var icon_702decad593a4217a32b547362bc0a3d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_fbfc27b14a6f4ac79ab347e776ddb256.setIcon(icon_702decad593a4217a32b547362bc0a3d);
+        
+    
+        var popup_9075de8237d04aeca64830f492ff8f24 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b1edfe6336e94c6699d4830721659579 = $(`<div id="html_b1edfe6336e94c6699d4830721659579" style="width: 100.0%; height: 100.0%;">Jorden van Foreest</div>`)[0];
+            popup_9075de8237d04aeca64830f492ff8f24.setContent(html_b1edfe6336e94c6699d4830721659579);
+        
+
+        marker_fbfc27b14a6f4ac79ab347e776ddb256.bindPopup(popup_9075de8237d04aeca64830f492ff8f24)
+        ;
+
+        
+    
+    
+            marker_fbfc27b14a6f4ac79ab347e776ddb256.bindTooltip(
+                `<div>
+                     Groningen, Nederland
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b0035ed7dc604fc89f4de9dca7575188 = L.marker(
+                [37.9020731, -122.0618702],
+                {}
+            ).addTo(map_65dbd2f624d44c6183907f85a560d213);
+        
+    
+            var icon_2cf023b35f5f44fbbefdc727af71ca61 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_b0035ed7dc604fc89f4de9dca7575188.setIcon(icon_2cf023b35f5f44fbbefdc727af71ca61);
+        
+    
+        var popup_c42b00acb6764cdb993fe48b357dfbae = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ffc7914e68ca434f8d80e75439ca9de7 = $(`<div id="html_ffc7914e68ca434f8d80e75439ca9de7" style="width: 100.0%; height: 100.0%;">Sam Shankland</div>`)[0];
+            popup_c42b00acb6764cdb993fe48b357dfbae.setContent(html_ffc7914e68ca434f8d80e75439ca9de7);
+        
+
+        marker_b0035ed7dc604fc89f4de9dca7575188.bindPopup(popup_c42b00acb6764cdb993fe48b357dfbae)
+        ;
+
+        
+    
+    
+            marker_b0035ed7dc604fc89f4de9dca7575188.bindTooltip(
+                `<div>
+                     Walnut Creek, CA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_3f870ea67c6c40bea6e53f5d6863460b = L.marker(
+                [52.4808348, -1.9142353],
+                {}
+            ).addTo(map_65dbd2f624d44c6183907f85a560d213);
+        
+    
+            var icon_ec9b997b83cb45028af607cc213b3336 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_3f870ea67c6c40bea6e53f5d6863460b.setIcon(icon_ec9b997b83cb45028af607cc213b3336);
+        
+    
+        var popup_f7517f686f3e409390eb8f963a7c2413 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1989a54dd6c141e99a0bf7c41201a8b0 = $(`<div id="html_1989a54dd6c141e99a0bf7c41201a8b0" style="width: 100.0%; height: 100.0%;">UFC</div>`)[0];
+            popup_f7517f686f3e409390eb8f963a7c2413.setContent(html_1989a54dd6c141e99a0bf7c41201a8b0);
+        
+
+        marker_3f870ea67c6c40bea6e53f5d6863460b.bindPopup(popup_f7517f686f3e409390eb8f963a7c2413)
+        ;
+
+        
+    
+    
+            marker_3f870ea67c6c40bea6e53f5d6863460b.bindTooltip(
+                `<div>
+                     Worldwide
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_048bb15b09b345b3a2f58b20e442431b = L.marker(
+                [45.5643442, 17.0118954],
+                {}
+            ).addTo(map_65dbd2f624d44c6183907f85a560d213);
+        
+    
+            var icon_120c191afbb04593aa8473ebf9c912ef = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_048bb15b09b345b3a2f58b20e442431b.setIcon(icon_120c191afbb04593aa8473ebf9c912ef);
+        
+    
+        var popup_16201caffa424e42918320c0a46dd396 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_482c9b83f90b4740b50bdba4c55c9971 = $(`<div id="html_482c9b83f90b4740b50bdba4c55c9971" style="width: 100.0%; height: 100.0%;">agadmator</div>`)[0];
+            popup_16201caffa424e42918320c0a46dd396.setContent(html_482c9b83f90b4740b50bdba4c55c9971);
+        
+
+        marker_048bb15b09b345b3a2f58b20e442431b.bindPopup(popup_16201caffa424e42918320c0a46dd396)
+        ;
+
+        
+    
+    
+            marker_048bb15b09b345b3a2f58b20e442431b.bindTooltip(
+                `<div>
+                     Republic of Croatia
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_238fa00bd365485ca44bc8ee12a73d32 = L.marker(
+                [53.46310955, -2.2913864850545362],
+                {}
+            ).addTo(map_65dbd2f624d44c6183907f85a560d213);
+        
+    
+            var icon_455341e9a3624939bf19443ec9399061 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_238fa00bd365485ca44bc8ee12a73d32.setIcon(icon_455341e9a3624939bf19443ec9399061);
+        
+    
+        var popup_8a5ba06506484595ae89b5e32e119a28 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_cd82a55897d64cc5b0bb479534967393 = $(`<div id="html_cd82a55897d64cc5b0bb479534967393" style="width: 100.0%; height: 100.0%;">Manchester United</div>`)[0];
+            popup_8a5ba06506484595ae89b5e32e119a28.setContent(html_cd82a55897d64cc5b0bb479534967393);
+        
+
+        marker_238fa00bd365485ca44bc8ee12a73d32.bindPopup(popup_8a5ba06506484595ae89b5e32e119a28)
+        ;
+
+        
+    
+    
+            marker_238fa00bd365485ca44bc8ee12a73d32.bindTooltip(
+                `<div>
+                     Old Trafford, Manchester
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b2aa36acdbb94719ba750096184f13b1 = L.marker(
+                [49.4871968, 31.2718321],
+                {}
+            ).addTo(map_65dbd2f624d44c6183907f85a560d213);
+        
+    
+            var icon_972b4bc6c9fb43d7839031cb58cafdb3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_b2aa36acdbb94719ba750096184f13b1.setIcon(icon_972b4bc6c9fb43d7839031cb58cafdb3);
+        
+    
+        var popup_b32d7a89617d4967882e3e6223c82067 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_be2e7f240736479694b5d84033ec1e7b = $(`<div id="html_be2e7f240736479694b5d84033ec1e7b" style="width: 100.0%; height: 100.0%;">Володимир Зеленський</div>`)[0];
+            popup_b32d7a89617d4967882e3e6223c82067.setContent(html_be2e7f240736479694b5d84033ec1e7b);
+        
+
+        marker_b2aa36acdbb94719ba750096184f13b1.bindPopup(popup_b32d7a89617d4967882e3e6223c82067)
+        ;
+
+        
+    
+    
+            marker_b2aa36acdbb94719ba750096184f13b1.bindTooltip(
+                `<div>
+                     Україна
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_25f6948635984b268af238c0f5cde86a = L.marker(
+                [39.2908816, -76.610759],
+                {}
+            ).addTo(map_65dbd2f624d44c6183907f85a560d213);
+        
+    
+            var icon_a26771dd84d04d879aea81279b26e098 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_25f6948635984b268af238c0f5cde86a.setIcon(icon_a26771dd84d04d879aea81279b26e098);
+        
+    
+        var popup_5208500fe0784f19bf38eb683a0c9b1c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_fb13201d0df140b5aad8ae8814cff984 = $(`<div id="html_fb13201d0df140b5aad8ae8814cff984" style="width: 100.0%; height: 100.0%;">Michael Phelps</div>`)[0];
+            popup_5208500fe0784f19bf38eb683a0c9b1c.setContent(html_fb13201d0df140b5aad8ae8814cff984);
+        
+
+        marker_25f6948635984b268af238c0f5cde86a.bindPopup(popup_5208500fe0784f19bf38eb683a0c9b1c)
+        ;
+
+        
+    
+    
+            marker_25f6948635984b268af238c0f5cde86a.bindTooltip(
+                `<div>
+                     Baltimore MD
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>

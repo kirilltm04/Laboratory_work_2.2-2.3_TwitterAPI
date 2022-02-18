@@ -1,0 +1,2763 @@
+[
+    {
+        "created_at": "Mon Feb 15 21:13:15 +0000 2021",
+        "id": 1361423349495328773,
+        "id_str": "1361423349495328773",
+        "text": "Great news: Thanks to President Biden, starting today, you can go to https://t.co/ob1Ynoesod to sign up for health\u2026 https://t.co/1jGVDCpWFi",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ob1Ynoesod",
+                    "expanded_url": "http://HealthCare.gov",
+                    "display_url": "HealthCare.gov",
+                    "indices": [
+                        69,
+                        92
+                    ]
+                },
+                {
+                    "url": "https://t.co/1jGVDCpWFi",
+                    "expanded_url": "https://twitter.com/i/web/status/1361423349495328773",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 813286,
+            "id_str": "813286",
+            "name": "Barack Obama",
+            "screen_name": "BarackObama",
+            "location": "Washington, DC",
+            "description": "Dad, husband, President, citizen.",
+            "url": "https://t.co/FPuJ0CENpo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FPuJ0CENpo",
+                            "expanded_url": "http://obamabook.com",
+                            "display_url": "obamabook.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 129452515,
+            "friends_count": 594746,
+            "listed_count": 223181,
+            "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 16100,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "77B0DC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+            "profile_link_color": "2574AD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C2E0F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9885,
+        "favorite_count": 57656,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sun Feb 14 14:01:17 +0000 2021",
+        "id": 1360952254627520512,
+        "id_str": "1360952254627520512",
+        "text": "Happy Valentine\u2019s Day to the three who never fail to make me smile. Your dazzling light makes everything brighter. https://t.co/fMcdwf2j20",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1360952252488421377,
+                    "id_str": "1360952252488421377",
+                    "indices": [
+                        115,
+                        138
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EuMS3O3XEAE9swU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EuMS3O3XEAE9swU.jpg",
+                    "url": "https://t.co/fMcdwf2j20",
+                    "display_url": "pic.twitter.com/fMcdwf2j20",
+                    "expanded_url": "https://twitter.com/BarackObama/status/1360952254627520512/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 678,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 678,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 678,
+                            "h": 640,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1360952252488421377,
+                    "id_str": "1360952252488421377",
+                    "indices": [
+                        115,
+                        138
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EuMS3O3XEAE9swU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EuMS3O3XEAE9swU.jpg",
+                    "url": "https://t.co/fMcdwf2j20",
+                    "display_url": "pic.twitter.com/fMcdwf2j20",
+                    "expanded_url": "https://twitter.com/BarackObama/status/1360952254627520512/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 678,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 678,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 678,
+                            "h": 640,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 813286,
+            "id_str": "813286",
+            "name": "Barack Obama",
+            "screen_name": "BarackObama",
+            "location": "Washington, DC",
+            "description": "Dad, husband, President, citizen.",
+            "url": "https://t.co/FPuJ0CENpo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FPuJ0CENpo",
+                            "expanded_url": "http://obamabook.com",
+                            "display_url": "obamabook.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 129452515,
+            "friends_count": 594746,
+            "listed_count": 223181,
+            "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 16100,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "77B0DC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+            "profile_link_color": "2574AD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C2E0F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 46710,
+        "favorite_count": 915522,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Feb 12 18:02:07 +0000 2021",
+        "id": 1360288086899515393,
+        "id_str": "1360288086899515393",
+        "text": "During our time in the White House, Michelle and I were proud to display artwork from artists like Alma Thomas and\u2026 https://t.co/FWrSXBDIyZ",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/FWrSXBDIyZ",
+                    "expanded_url": "https://twitter.com/i/web/status/1360288086899515393",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 813286,
+            "id_str": "813286",
+            "name": "Barack Obama",
+            "screen_name": "BarackObama",
+            "location": "Washington, DC",
+            "description": "Dad, husband, President, citizen.",
+            "url": "https://t.co/FPuJ0CENpo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FPuJ0CENpo",
+                            "expanded_url": "http://obamabook.com",
+                            "display_url": "obamabook.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 129452515,
+            "friends_count": 594746,
+            "listed_count": 223181,
+            "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 16100,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "77B0DC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+            "profile_link_color": "2574AD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C2E0F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4981,
+        "favorite_count": 52143,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Feb 09 16:30:46 +0000 2021",
+        "id": 1359177932699291650,
+        "id_str": "1359177932699291650",
+        "text": "There is a lot of disinformation out there, but here\u2019s the truth: You should get a COVID vaccine as soon as it's av\u2026 https://t.co/7bxIfHbHks",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/7bxIfHbHks",
+                    "expanded_url": "https://twitter.com/i/web/status/1359177932699291650",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 813286,
+            "id_str": "813286",
+            "name": "Barack Obama",
+            "screen_name": "BarackObama",
+            "location": "Washington, DC",
+            "description": "Dad, husband, President, citizen.",
+            "url": "https://t.co/FPuJ0CENpo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FPuJ0CENpo",
+                            "expanded_url": "http://obamabook.com",
+                            "display_url": "obamabook.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 129452515,
+            "friends_count": 594746,
+            "listed_count": 223181,
+            "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 16100,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "77B0DC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+            "profile_link_color": "2574AD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C2E0F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8853,
+        "favorite_count": 61687,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Feb 05 17:30:44 +0000 2021",
+        "id": 1357743471885484032,
+        "id_str": "1357743471885484032",
+        "text": "Climate\u00a0change\u00a0is a real threat to us all\u2014but feeling helpless or overwhelmed isn\u2019t going to solve it. As long as w\u2026 https://t.co/ospbfmqv4e",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ospbfmqv4e",
+                    "expanded_url": "https://twitter.com/i/web/status/1357743471885484032",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 813286,
+            "id_str": "813286",
+            "name": "Barack Obama",
+            "screen_name": "BarackObama",
+            "location": "Washington, DC",
+            "description": "Dad, husband, President, citizen.",
+            "url": "https://t.co/FPuJ0CENpo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FPuJ0CENpo",
+                            "expanded_url": "http://obamabook.com",
+                            "display_url": "obamabook.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 129452515,
+            "friends_count": 594746,
+            "listed_count": 223181,
+            "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 16100,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "77B0DC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+            "profile_link_color": "2574AD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C2E0F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5743,
+        "favorite_count": 49122,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Feb 03 20:31:05 +0000 2021",
+        "id": 1357064085754511361,
+        "id_str": "1357064085754511361",
+        "text": "I\u2019m proud to announce that the Obama Presidential Center will officially break ground in 2021. Our hope is that the\u2026 https://t.co/WDfSpstiQr",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/WDfSpstiQr",
+                    "expanded_url": "https://twitter.com/i/web/status/1357064085754511361",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 813286,
+            "id_str": "813286",
+            "name": "Barack Obama",
+            "screen_name": "BarackObama",
+            "location": "Washington, DC",
+            "description": "Dad, husband, President, citizen.",
+            "url": "https://t.co/FPuJ0CENpo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FPuJ0CENpo",
+                            "expanded_url": "http://obamabook.com",
+                            "display_url": "obamabook.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 129452515,
+            "friends_count": 594746,
+            "listed_count": 223181,
+            "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 16100,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "77B0DC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+            "profile_link_color": "2574AD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C2E0F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 14841,
+        "favorite_count": 148624,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Feb 02 13:41:59 +0000 2021",
+        "id": 1356598745241161728,
+        "id_str": "1356598745241161728",
+        "text": "Black-owned independent bookstores play a critical role in communities all across our country. I wanted to show my\u2026 https://t.co/o1a6dVhhuz",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/o1a6dVhhuz",
+                    "expanded_url": "https://twitter.com/i/web/status/1356598745241161728",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 813286,
+            "id_str": "813286",
+            "name": "Barack Obama",
+            "screen_name": "BarackObama",
+            "location": "Washington, DC",
+            "description": "Dad, husband, President, citizen.",
+            "url": "https://t.co/FPuJ0CENpo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FPuJ0CENpo",
+                            "expanded_url": "http://obamabook.com",
+                            "display_url": "obamabook.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 129452515,
+            "friends_count": 594746,
+            "listed_count": 223181,
+            "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 16100,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "77B0DC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+            "profile_link_color": "2574AD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C2E0F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5859,
+        "favorite_count": 48287,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sun Jan 31 16:00:34 +0000 2021",
+        "id": 1355908844615061508,
+        "id_str": "1355908844615061508",
+        "text": "When Jackie Robinson faced down slurs, spiked cleats, and pitches aimed at his head\u2014and stole home anyway\u2014he didn't\u2026 https://t.co/CwkfJf2aNb",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/CwkfJf2aNb",
+                    "expanded_url": "https://twitter.com/i/web/status/1355908844615061508",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 813286,
+            "id_str": "813286",
+            "name": "Barack Obama",
+            "screen_name": "BarackObama",
+            "location": "Washington, DC",
+            "description": "Dad, husband, President, citizen.",
+            "url": "https://t.co/FPuJ0CENpo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FPuJ0CENpo",
+                            "expanded_url": "http://obamabook.com",
+                            "display_url": "obamabook.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 129452515,
+            "friends_count": 594746,
+            "listed_count": 223181,
+            "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 16100,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "77B0DC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+            "profile_link_color": "2574AD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C2E0F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 26410,
+        "favorite_count": 259245,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Jan 29 20:01:35 +0000 2021",
+        "id": 1355244722135166981,
+        "id_str": "1355244722135166981",
+        "text": "RT @ObamaFoundation: #OTD in 2009, @BarackObama signed the Lilly Ledbetter Fair Pay Restoration Act\u2014his first bill as President\u2014to fight pa\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OTD",
+                    "indices": [
+                        21,
+                        25
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ObamaFoundation",
+                    "name": "The Obama Foundation",
+                    "id": 2293315159,
+                    "id_str": "2293315159",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                },
+                {
+                    "screen_name": "BarackObama",
+                    "name": "Barack Obama",
+                    "id": 813286,
+                    "id_str": "813286",
+                    "indices": [
+                        35,
+                        47
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 813286,
+            "id_str": "813286",
+            "name": "Barack Obama",
+            "screen_name": "BarackObama",
+            "location": "Washington, DC",
+            "description": "Dad, husband, President, citizen.",
+            "url": "https://t.co/FPuJ0CENpo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FPuJ0CENpo",
+                            "expanded_url": "http://obamabook.com",
+                            "display_url": "obamabook.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 129452515,
+            "friends_count": 594746,
+            "listed_count": 223181,
+            "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 16100,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "77B0DC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+            "profile_link_color": "2574AD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C2E0F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Jan 29 13:06:51 +0000 2021",
+            "id": 1355140351133155333,
+            "id_str": "1355140351133155333",
+            "text": "#OTD in 2009, @BarackObama signed the Lilly Ledbetter Fair Pay Restoration Act\u2014his first bill as President\u2014to fight\u2026 https://t.co/d2YtmnZGaa",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "OTD",
+                        "indices": [
+                            0,
+                            4
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "BarackObama",
+                        "name": "Barack Obama",
+                        "id": 813286,
+                        "id_str": "813286",
+                        "indices": [
+                            14,
+                            26
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/d2YtmnZGaa",
+                        "expanded_url": "https://twitter.com/i/web/status/1355140351133155333",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2293315159,
+                "id_str": "2293315159",
+                "name": "The Obama Foundation",
+                "screen_name": "ObamaFoundation",
+                "location": "",
+                "description": "Our mission is to inspire people to take action, empower them to change their world for the better, and connect them so they can achieve more together.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1095792,
+                "friends_count": 90,
+                "listed_count": 3267,
+                "created_at": "Wed Jan 15 20:02:36 +0000 2014",
+                "favourites_count": 627,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 2161,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "EEEEEE",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1213134508964425728/D2ZX7SLU_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1213134508964425728/D2ZX7SLU_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2293315159/1572892194",
+                "profile_link_color": "505E73",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1290,
+            "favorite_count": 9890,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1290,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Jan 29 04:04:55 +0000 2021",
+        "id": 1355003969911857153,
+        "id_str": "1355003969911857153",
+        "text": "In her extraordinary career, Cicely Tyson was one of the rare award-winning actors whose work on the screen was sur\u2026 https://t.co/PJkfS92s1C",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/PJkfS92s1C",
+                    "expanded_url": "https://twitter.com/i/web/status/1355003969911857153",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 813286,
+            "id_str": "813286",
+            "name": "Barack Obama",
+            "screen_name": "BarackObama",
+            "location": "Washington, DC",
+            "description": "Dad, husband, President, citizen.",
+            "url": "https://t.co/FPuJ0CENpo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FPuJ0CENpo",
+                            "expanded_url": "http://obamabook.com",
+                            "display_url": "obamabook.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 129452515,
+            "friends_count": 594746,
+            "listed_count": 223181,
+            "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 16100,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "77B0DC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+            "profile_link_color": "2574AD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C2E0F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 27349,
+        "favorite_count": 319727,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jan 27 22:17:17 +0000 2021",
+        "id": 1354554094673920002,
+        "id_str": "1354554094673920002",
+        "text": ".@EkpeUdoh\u2014I saw your tweet about A Promised Land and thought I\u2019d respond. For me, the title of my book is about th\u2026 https://t.co/sW4oglvqjT",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "EkpeUdoh",
+                    "name": "Ekpe Udoh",
+                    "id": 113483838,
+                    "id_str": "113483838",
+                    "indices": [
+                        1,
+                        10
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/sW4oglvqjT",
+                    "expanded_url": "https://twitter.com/i/web/status/1354554094673920002",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 813286,
+            "id_str": "813286",
+            "name": "Barack Obama",
+            "screen_name": "BarackObama",
+            "location": "Washington, DC",
+            "description": "Dad, husband, President, citizen.",
+            "url": "https://t.co/FPuJ0CENpo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FPuJ0CENpo",
+                            "expanded_url": "http://obamabook.com",
+                            "display_url": "obamabook.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 129452515,
+            "friends_count": 594746,
+            "listed_count": 223181,
+            "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 16100,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "77B0DC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+            "profile_link_color": "2574AD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C2E0F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1352423015435423747,
+        "quoted_status_id_str": "1352423015435423747",
+        "quoted_status": {
+            "created_at": "Fri Jan 22 01:09:08 +0000 2021",
+            "id": 1352423015435423747,
+            "id_str": "1352423015435423747",
+            "text": "Why do y\u2019all think that President Obama named his memoir A Promised Land? How do you define a promised land?\n#Ekpesbookclub",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Ekpesbookclub",
+                        "indices": [
+                            109,
+                            123
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 113483838,
+                "id_str": "113483838",
+                "name": "Ekpe Udoh",
+                "screen_name": "EkpeUdoh",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 92681,
+                "friends_count": 479,
+                "listed_count": 774,
+                "created_at": "Thu Feb 11 22:40:46 +0000 2010",
+                "favourites_count": 1328,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 15367,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/507284251386335232/s-1CHvs4_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/507284251386335232/s-1CHvs4_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/113483838/1409780927",
+                "profile_link_color": "2FC2EF",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 43,
+            "favorite_count": 791,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "retweet_count": 3856,
+        "favorite_count": 36663,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Jan 26 14:31:09 +0000 2021",
+        "id": 1354074402435059712,
+        "id_str": "1354074402435059712",
+        "text": "Here\u2019s an example of the incredible risks and burdens that our essential workers have been facing. And even as we m\u2026 https://t.co/MlcCTCv1Kt",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/MlcCTCv1Kt",
+                    "expanded_url": "https://twitter.com/i/web/status/1354074402435059712",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 813286,
+            "id_str": "813286",
+            "name": "Barack Obama",
+            "screen_name": "BarackObama",
+            "location": "Washington, DC",
+            "description": "Dad, husband, President, citizen.",
+            "url": "https://t.co/FPuJ0CENpo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FPuJ0CENpo",
+                            "expanded_url": "http://obamabook.com",
+                            "display_url": "obamabook.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 129452515,
+            "friends_count": 594746,
+            "listed_count": 223181,
+            "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 16100,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "77B0DC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+            "profile_link_color": "2574AD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C2E0F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4652,
+        "favorite_count": 34226,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Jan 22 19:00:48 +0000 2021",
+        "id": 1352692708448595968,
+        "id_str": "1352692708448595968",
+        "text": "Hank Aaron was one of the best baseball players we\u2019ve ever seen and one of the strongest people I\u2019ve ever met. Mich\u2026 https://t.co/hszZv9PSPK",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/hszZv9PSPK",
+                    "expanded_url": "https://twitter.com/i/web/status/1352692708448595968",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 813286,
+            "id_str": "813286",
+            "name": "Barack Obama",
+            "screen_name": "BarackObama",
+            "location": "Washington, DC",
+            "description": "Dad, husband, President, citizen.",
+            "url": "https://t.co/FPuJ0CENpo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FPuJ0CENpo",
+                            "expanded_url": "http://obamabook.com",
+                            "display_url": "obamabook.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 129452515,
+            "friends_count": 594746,
+            "listed_count": 223181,
+            "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 16100,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "77B0DC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+            "profile_link_color": "2574AD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C2E0F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 18562,
+        "favorite_count": 219393,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jan 21 22:53:24 +0000 2021",
+        "id": 1352388858227384322,
+        "id_str": "1352388858227384322",
+        "text": "This is a time for boldness and President Biden is already delivering.\n\nBy rejoining the Paris climate accords on d\u2026 https://t.co/Zve6RsEBKE",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Zve6RsEBKE",
+                    "expanded_url": "https://twitter.com/i/web/status/1352388858227384322",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 813286,
+            "id_str": "813286",
+            "name": "Barack Obama",
+            "screen_name": "BarackObama",
+            "location": "Washington, DC",
+            "description": "Dad, husband, President, citizen.",
+            "url": "https://t.co/FPuJ0CENpo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FPuJ0CENpo",
+                            "expanded_url": "http://obamabook.com",
+                            "display_url": "obamabook.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 129452515,
+            "friends_count": 594746,
+            "listed_count": 223181,
+            "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 16100,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "77B0DC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+            "profile_link_color": "2574AD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C2E0F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12544,
+        "favorite_count": 153973,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jan 21 03:16:38 +0000 2021",
+        "id": 1352092714599391233,
+        "id_str": "1352092714599391233",
+        "text": "Today was a good day.\n\nAnd it was only possible because of you. Because you made calls. Because you marched. Becaus\u2026 https://t.co/DDLzWGC4FB",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/DDLzWGC4FB",
+                    "expanded_url": "https://twitter.com/i/web/status/1352092714599391233",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 813286,
+            "id_str": "813286",
+            "name": "Barack Obama",
+            "screen_name": "BarackObama",
+            "location": "Washington, DC",
+            "description": "Dad, husband, President, citizen.",
+            "url": "https://t.co/FPuJ0CENpo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FPuJ0CENpo",
+                            "expanded_url": "http://obamabook.com",
+                            "display_url": "obamabook.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 129452515,
+            "friends_count": 594746,
+            "listed_count": 223181,
+            "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 16100,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "77B0DC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+            "profile_link_color": "2574AD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C2E0F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1351960433905700864,
+        "quoted_status_id_str": "1351960433905700864",
+        "quoted_status": {
+            "created_at": "Wed Jan 20 18:31:00 +0000 2021",
+            "id": 1351960433905700864,
+            "id_str": "1351960433905700864",
+            "text": "The time to move forward is now. https://t.co/IrUUu0bxGO",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1351955868460449792,
+                        "id_str": "1351955868460449792",
+                        "indices": [
+                            33,
+                            56
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EsMeN7AXMAA8yxV.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EsMeN7AXMAA8yxV.jpg",
+                        "url": "https://t.co/IrUUu0bxGO",
+                        "display_url": "pic.twitter.com/IrUUu0bxGO",
+                        "expanded_url": "https://twitter.com/POTUS/status/1351960433905700864/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1920,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1351955868460449792,
+                        "id_str": "1351955868460449792",
+                        "indices": [
+                            33,
+                            56
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EsMeN7AXMAA8yxV.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EsMeN7AXMAA8yxV.jpg",
+                        "url": "https://t.co/IrUUu0bxGO",
+                        "display_url": "pic.twitter.com/IrUUu0bxGO",
+                        "expanded_url": "https://twitter.com/POTUS/status/1351960433905700864/video/1",
+                        "type": "video",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1920,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 52135,
+                            "variants": [
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1351955868460449792/vid/640x360/AM3vkf2auoBO_pNW.mp4?tag=13"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/amplify_video/1351955868460449792/pl/6oirpfI__e_U-5Er.m3u8?tag=13"
+                                },
+                                {
+                                    "bitrate": 288000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1351955868460449792/vid/480x270/Y4DIH_69GrEHfVP5.mp4?tag=13"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1351955868460449792/vid/1280x720/Uka-rsIFkf5JM-Yx.mp4?tag=13"
+                                }
+                            ]
+                        },
+                        "additional_media_info": {
+                            "title": "",
+                            "description": "",
+                            "embeddable": true,
+                            "monetizable": false
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1349149096909668363,
+                "id_str": "1349149096909668363",
+                "name": "President Biden",
+                "screen_name": "POTUS",
+                "location": "",
+                "description": "46th President of the United States, husband to @FLOTUS, proud dad & pop. Tweets may be archived: https://t.co/IURuMIrzxb",
+                "url": "https://t.co/IxLjEB2zlE",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/IxLjEB2zlE",
+                                "expanded_url": "http://WhiteHouse.gov",
+                                "display_url": "WhiteHouse.gov",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/IURuMIrzxb",
+                                "expanded_url": "http://whitehouse.gov/privacy",
+                                "display_url": "whitehouse.gov/privacy",
+                                "indices": [
+                                    98,
+                                    121
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 7733263,
+                "friends_count": 13,
+                "listed_count": 8689,
+                "created_at": "Wed Jan 13 00:37:08 +0000 2021",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 164,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1349837426626330628/CRMNXzQJ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1349837426626330628/CRMNXzQJ_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1349149096909668363/1611162285",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 71524,
+            "favorite_count": 476692,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 39645,
+        "favorite_count": 420741,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jan 20 20:50:59 +0000 2021",
+        "id": 1351995663475728386,
+        "id_str": "1351995663475728386",
+        "text": "On a day for the history books, @TheAmandaGorman delivered a poem that more than met the moment. Young people like\u2026 https://t.co/iw8u54ti1c",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "TheAmandaGorman",
+                    "name": "Amanda Gorman",
+                    "id": 2569743630,
+                    "id_str": "2569743630",
+                    "indices": [
+                        32,
+                        48
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/iw8u54ti1c",
+                    "expanded_url": "https://twitter.com/i/web/status/1351995663475728386",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 813286,
+            "id_str": "813286",
+            "name": "Barack Obama",
+            "screen_name": "BarackObama",
+            "location": "Washington, DC",
+            "description": "Dad, husband, President, citizen.",
+            "url": "https://t.co/FPuJ0CENpo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FPuJ0CENpo",
+                            "expanded_url": "http://obamabook.com",
+                            "display_url": "obamabook.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 129452515,
+            "friends_count": 594746,
+            "listed_count": 223181,
+            "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 16100,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "77B0DC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+            "profile_link_color": "2574AD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C2E0F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 87289,
+        "favorite_count": 578439,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jan 20 16:19:44 +0000 2021",
+        "id": 1351927401979269125,
+        "id_str": "1351927401979269125",
+        "text": "RT @JoeBiden: Today, we begin anew. Tune in for #Inauguration2021. https://t.co/HxfU8q5riA",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Inauguration2021",
+                    "indices": [
+                        48,
+                        65
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JoeBiden",
+                    "name": "Joe Biden",
+                    "id": 939091,
+                    "id_str": "939091",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/HxfU8q5riA",
+                    "expanded_url": "https://www.pscp.tv/w/ctbrDTFvUEVMQkJiT2xyS2R8MXZBR1J3ekJYbFlKbJiKgKxuE5vmLMeQfF5NseiCjpAy6RNNU-iPngj30L-r",
+                    "display_url": "pscp.tv/w/ctbrDTFvUEVM\u2026",
+                    "indices": [
+                        67,
+                        90
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 813286,
+            "id_str": "813286",
+            "name": "Barack Obama",
+            "screen_name": "BarackObama",
+            "location": "Washington, DC",
+            "description": "Dad, husband, President, citizen.",
+            "url": "https://t.co/FPuJ0CENpo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FPuJ0CENpo",
+                            "expanded_url": "http://obamabook.com",
+                            "display_url": "obamabook.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 129452515,
+            "friends_count": 594746,
+            "listed_count": 223181,
+            "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 16100,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "77B0DC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+            "profile_link_color": "2574AD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C2E0F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jan 20 14:58:21 +0000 2021",
+            "id": 1351906918667677696,
+            "id_str": "1351906918667677696",
+            "text": "Today, we begin anew. Tune in for #Inauguration2021. https://t.co/HxfU8q5riA",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Inauguration2021",
+                        "indices": [
+                            34,
+                            51
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/HxfU8q5riA",
+                        "expanded_url": "https://www.pscp.tv/w/ctbrDTFvUEVMQkJiT2xyS2R8MXZBR1J3ekJYbFlKbJiKgKxuE5vmLMeQfF5NseiCjpAy6RNNU-iPngj30L-r",
+                        "display_url": "pscp.tv/w/ctbrDTFvUEVM\u2026",
+                        "indices": [
+                            53,
+                            76
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 939091,
+                "id_str": "939091",
+                "name": "Joe Biden",
+                "screen_name": "JoeBiden",
+                "location": "Wilmington, DE",
+                "description": "Husband to @DrBiden, proud father and grandfather. Ready to build back better for all Americans. Official account is @POTUS.",
+                "url": "https://t.co/UClrPuJpyZ",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/UClrPuJpyZ",
+                                "expanded_url": "http://joebiden.com",
+                                "display_url": "joebiden.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 28331454,
+                "friends_count": 46,
+                "listed_count": 34985,
+                "created_at": "Sun Mar 11 17:51:24 +0000 2007",
+                "favourites_count": 20,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 7191,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "565959",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/939091/1604514209",
+                "profile_link_color": "233F94",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EBEBFF",
+                "profile_text_color": "323232",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 40142,
+            "favorite_count": 326601,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 40142,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jan 20 14:45:13 +0000 2021",
+        "id": 1351903613237547010,
+        "id_str": "1351903613237547010",
+        "text": "Congratulations to my friend, President @JoeBiden! This is your time. https://t.co/LXzxGnBAfz",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JoeBiden",
+                    "name": "Joe Biden",
+                    "id": 939091,
+                    "id_str": "939091",
+                    "indices": [
+                        40,
+                        49
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1351903608015618051,
+                    "id_str": "1351903608015618051",
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EsLtKzZXAAM2F6d.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EsLtKzZXAAM2F6d.jpg",
+                    "url": "https://t.co/LXzxGnBAfz",
+                    "display_url": "pic.twitter.com/LXzxGnBAfz",
+                    "expanded_url": "https://twitter.com/BarackObama/status/1351903613237547010/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 970,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 550,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1656,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1351903608015618051,
+                    "id_str": "1351903608015618051",
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EsLtKzZXAAM2F6d.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EsLtKzZXAAM2F6d.jpg",
+                    "url": "https://t.co/LXzxGnBAfz",
+                    "display_url": "pic.twitter.com/LXzxGnBAfz",
+                    "expanded_url": "https://twitter.com/BarackObama/status/1351903613237547010/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 970,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 550,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1656,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 813286,
+            "id_str": "813286",
+            "name": "Barack Obama",
+            "screen_name": "BarackObama",
+            "location": "Washington, DC",
+            "description": "Dad, husband, President, citizen.",
+            "url": "https://t.co/FPuJ0CENpo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FPuJ0CENpo",
+                            "expanded_url": "http://obamabook.com",
+                            "display_url": "obamabook.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 129452515,
+            "friends_count": 594746,
+            "listed_count": 223181,
+            "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 16100,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "77B0DC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+            "profile_link_color": "2574AD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C2E0F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 316675,
+        "favorite_count": 2834604,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Jan 18 14:33:46 +0000 2021",
+        "id": 1351175958229880843,
+        "id_str": "1351175958229880843",
+        "text": "On #MLKDay, we celebrate his life but we\u2019re also called to live out his values through service of our own. Here are\u2026 https://t.co/SfjRt4rkND",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "MLKDay",
+                    "indices": [
+                        3,
+                        10
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/SfjRt4rkND",
+                    "expanded_url": "https://twitter.com/i/web/status/1351175958229880843",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1351175956992548870,
+        "in_reply_to_status_id_str": "1351175956992548870",
+        "in_reply_to_user_id": 813286,
+        "in_reply_to_user_id_str": "813286",
+        "in_reply_to_screen_name": "BarackObama",
+        "user": {
+            "id": 813286,
+            "id_str": "813286",
+            "name": "Barack Obama",
+            "screen_name": "BarackObama",
+            "location": "Washington, DC",
+            "description": "Dad, husband, President, citizen.",
+            "url": "https://t.co/FPuJ0CENpo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FPuJ0CENpo",
+                            "expanded_url": "http://obamabook.com",
+                            "display_url": "obamabook.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 129452515,
+            "friends_count": 594746,
+            "listed_count": 223181,
+            "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 16100,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "77B0DC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+            "profile_link_color": "2574AD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C2E0F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4806,
+        "favorite_count": 37544,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Jan 18 14:33:46 +0000 2021",
+        "id": 1351175956992548870,
+        "id_str": "1351175956992548870",
+        "text": "If anyone had a right to question whether our democracy was worth redeeming, it was Dr. Martin Luther King, Jr. Bec\u2026 https://t.co/c2bmTz1D4a",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/c2bmTz1D4a",
+                    "expanded_url": "https://twitter.com/i/web/status/1351175956992548870",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 813286,
+            "id_str": "813286",
+            "name": "Barack Obama",
+            "screen_name": "BarackObama",
+            "location": "Washington, DC",
+            "description": "Dad, husband, President, citizen.",
+            "url": "https://t.co/FPuJ0CENpo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FPuJ0CENpo",
+                            "expanded_url": "http://obamabook.com",
+                            "display_url": "obamabook.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 129452515,
+            "friends_count": 594746,
+            "listed_count": 223181,
+            "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 16100,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "77B0DC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+            "profile_link_color": "2574AD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C2E0F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 62854,
+        "favorite_count": 429556,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }
+]

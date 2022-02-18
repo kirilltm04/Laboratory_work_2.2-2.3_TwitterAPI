@@ -1,0 +1,1763 @@
+{
+  "users": [
+    {
+      "id": 2751434132,
+      "id_str": "2751434132",
+      "name": "Brilliant Maps",
+      "screen_name": "BrilliantMaps",
+      "location": "London and around the world",
+      "description": "An Atlas for Curious Minds. Order our book here: https://t.co/t7QLqVHTr3 & Follow us on Facebook: https://t.co/nYqU8dgutK",
+      "url": "http://t.co/bOcAJ4h8Sd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/bOcAJ4h8Sd",
+              "expanded_url": "http://brilliantmaps.com",
+              "display_url": "brilliantmaps.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/t7QLqVHTr3",
+              "expanded_url": "http://brilliantmaps.com/book/",
+              "display_url": "brilliantmaps.com/book/",
+              "indices": [
+                49,
+                72
+              ]
+            },
+            {
+              "url": "https://t.co/nYqU8dgutK",
+              "expanded_url": "http://facebook.com/brilliantmaps",
+              "display_url": "facebook.com/brilliantmaps",
+              "indices": [
+                98,
+                121
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 116364,
+      "friends_count": 242,
+      "listed_count": 1554,
+      "created_at": "Thu Aug 21 05:59:07 +0000 2014",
+      "favourites_count": 487,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 9568,
+      "lang": null,
+      "status": {
+        "created_at": "Tue Feb 08 19:30:00 +0000 2022",
+        "id": 1491132222987976704,
+        "id_str": "1491132222987976704",
+        "text": "1945 UK Election Map: The Biggest Ever Swing To Another Party - https://t.co/HJwsob2UL1",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/HJwsob2UL1",
+              "expanded_url": "https://ecs.page.link/HarJG",
+              "display_url": "ecs.page.link/HarJG",
+              "indices": [
+                64,
+                87
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://eclincher.com\" rel=\"nofollow\">eClincher</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C6E2EE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/822110207878819842/Gr1-uv3h_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/822110207878819842/Gr1-uv3h_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2751434132/1484841304",
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    {
+      "id": 2243894526,
+      "id_str": "2243894526",
+      "name": "Natalie Jaresko",
+      "screen_name": "njaresko",
+      "location": "Puerto Rico, USA",
+      "description": "Executive Director, Financial Oversight and Management Board for Puerto Rico @FOMBPR",
+      "url": "https://t.co/P3NmM7rUYf",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/P3NmM7rUYf",
+              "expanded_url": "http://oversightboard.pr.gov",
+              "display_url": "oversightboard.pr.gov",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9853,
+      "friends_count": 2322,
+      "listed_count": 198,
+      "created_at": "Fri Dec 13 13:15:07 +0000 2013",
+      "favourites_count": 7846,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 30455,
+      "lang": null,
+      "status": {
+        "created_at": "Wed Feb 02 01:29:10 +0000 2022",
+        "id": 1488685895498752000,
+        "id_str": "1488685895498752000",
+        "text": "RT @FOMBPR: After 5 years of fiscal crisis, this #FiscalPlan makes a new and substantial investment into the civil service and in the Pensi\u2026",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "FiscalPlan",
+              "indices": [
+                49,
+                60
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "FOMBPR",
+              "name": "Financial Oversight & Mgmt Board for Puerto Rico",
+              "id": 958109367714410501,
+              "id_str": "958109367714410501",
+              "indices": [
+                3,
+                10
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Wed Feb 02 01:07:29 +0000 2022",
+          "id": 1488680438285668352,
+          "id_str": "1488680438285668352",
+          "text": "After 5 years of fiscal crisis, this #FiscalPlan makes a new and substantial investment into the civil service and\u2026 https://t.co/fOxJ5FyD5P",
+          "truncated": true,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "FiscalPlan",
+                "indices": [
+                  37,
+                  48
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/fOxJ5FyD5P",
+                "expanded_url": "https://twitter.com/i/web/status/1488680438285668352",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 3,
+          "favorite_count": 8,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1055904359081492480/sc1xVmyx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055904359081492480/sc1xVmyx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2243894526/1496339876",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    {
+      "id": 1274647295657758720,
+      "id_str": "1274647295657758720",
+      "name": "KGB Files",
+      "screen_name": "kgb_files",
+      "location": "",
+      "description": "Ukrainian historian, PhD, researcher of the KGB archives.\nCreator of the KGB Files YouTube channel",
+      "url": "https://t.co/C4Y4mlRG9B",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/C4Y4mlRG9B",
+              "expanded_url": "https://www.youtube.com/channel/UCZqIDYYURLSDJLTsw58u24w/",
+              "display_url": "youtube.com/channel/UCZqID\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 28473,
+      "friends_count": 398,
+      "listed_count": 196,
+      "created_at": "Sun Jun 21 10:16:24 +0000 2020",
+      "favourites_count": 661,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3146,
+      "lang": null,
+      "status": {
+        "created_at": "Tue Feb 08 09:26:43 +0000 2022",
+        "id": 1490980400642273281,
+        "id_str": "1490980400642273281",
+        "text": "Kim Il Sung met a German family during his visit to the GDR, 1984 https://t.co/PYweWxd7VP",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1490980267389030403,
+              "id_str": "1490980267389030403",
+              "indices": [
+                66,
+                89
+              ],
+              "media_url": "http://pbs.twimg.com/media/FLEGp1TXEAM_YN3.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/FLEGp1TXEAM_YN3.jpg",
+              "url": "https://t.co/PYweWxd7VP",
+              "display_url": "pic.twitter.com/PYweWxd7VP",
+              "expanded_url": "https://twitter.com/kgb_files/status/1490980400642273281/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 800,
+                  "h": 660,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 800,
+                  "h": 660,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 561,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1490980267389030403,
+              "id_str": "1490980267389030403",
+              "indices": [
+                66,
+                89
+              ],
+              "media_url": "http://pbs.twimg.com/media/FLEGp1TXEAM_YN3.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/FLEGp1TXEAM_YN3.jpg",
+              "url": "https://t.co/PYweWxd7VP",
+              "display_url": "pic.twitter.com/PYweWxd7VP",
+              "expanded_url": "https://twitter.com/kgb_files/status/1490980400642273281/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 800,
+                  "h": 660,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 800,
+                  "h": 660,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 561,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 26,
+        "favorite_count": 127,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1274647475358502913/19c3xp_P_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1274647475358502913/19c3xp_P_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1274647295657758720/1592734976",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    {
+      "id": 240049622,
+      "id_str": "240049622",
+      "name": "David Perell",
+      "screen_name": "david_perell",
+      "location": "Austin, Texas",
+      "description": "\"The Writing Guy\" | I tweet about writing, learning and business | My writing school: https://t.co/bzeQ7VVyS0 | My writing: https://t.co/SOE9HtxXdi",
+      "url": "https://t.co/RpMPV73iuK",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/RpMPV73iuK",
+              "expanded_url": "https://dperell.com/best-links",
+              "display_url": "dperell.com/best-links",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/bzeQ7VVyS0",
+              "expanded_url": "http://writeofpassage.school",
+              "display_url": "writeofpassage.school",
+              "indices": [
+                86,
+                109
+              ]
+            },
+            {
+              "url": "https://t.co/SOE9HtxXdi",
+              "expanded_url": "http://perell.com",
+              "display_url": "perell.com",
+              "indices": [
+                124,
+                147
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 288794,
+      "friends_count": 837,
+      "listed_count": 5224,
+      "created_at": "Wed Jan 19 01:41:27 +0000 2011",
+      "favourites_count": 69659,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 27387,
+      "lang": null,
+      "status": {
+        "created_at": "Mon Feb 07 19:02:42 +0000 2022",
+        "id": 1490762965636849665,
+        "id_str": "1490762965636849665",
+        "text": "@TeodorCataniciu Welcome aboard!",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "TeodorCataniciu",
+              "name": "Teodor N. C\u0103t\u0103niciu",
+              "id": 470374425,
+              "id_str": "470374425",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1490752663075573765,
+        "in_reply_to_status_id_str": "1490752663075573765",
+        "in_reply_to_user_id": 470374425,
+        "in_reply_to_user_id_str": "470374425",
+        "in_reply_to_screen_name": "TeodorCataniciu",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1341406620107091968/Cxxf4Uf5_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341406620107091968/Cxxf4Uf5_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/240049622/1641513065",
+      "profile_link_color": "129CE6",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    {
+      "id": 712677495074660352,
+      "id_str": "712677495074660352",
+      "name": "Marta Barandiy",
+      "screen_name": "MartaBarandiy",
+      "location": "Belgium",
+      "description": "No matter what side you are taking, your position shall make you complicit. Not knowingly you are shaping the result you did not solicit. \u0422\u0432\u0456\u0447\u0443 \u0434\u0432\u043e\u043c\u0430 \u043c\u043e\u0432\u0430\u043c\u0438",
+      "url": "https://t.co/FZD0PWLjVb",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/FZD0PWLjVb",
+              "expanded_url": "http://promoteukraine.org",
+              "display_url": "promoteukraine.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 659,
+      "friends_count": 1571,
+      "listed_count": 25,
+      "created_at": "Wed Mar 23 16:28:50 +0000 2016",
+      "favourites_count": 3019,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2729,
+      "lang": null,
+      "status": {
+        "created_at": "Tue Feb 08 20:15:12 +0000 2022",
+        "id": 1491143596955017218,
+        "id_str": "1491143596955017218",
+        "text": "RT @petras_petras: Join us and make your support for @Ukraine even stronger! See you on 9 Ferbruary in Brussels! https://t.co/SNZmR0VPZa",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "petras_petras",
+              "name": "Petras Austrevicius",
+              "id": 1314652063,
+              "id_str": "1314652063",
+              "indices": [
+                3,
+                17
+              ]
+            },
+            {
+              "screen_name": "Ukraine",
+              "name": "Ukraine / \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+              "id": 732521058507620356,
+              "id_str": "732521058507620356",
+              "indices": [
+                53,
+                61
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 1490722270498758664,
+              "id_str": "1490722270498758664",
+              "indices": [
+                113,
+                136
+              ],
+              "media_url": "http://pbs.twimg.com/media/FLAcAb_XoAgEzyf.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/FLAcAb_XoAgEzyf.jpg",
+              "url": "https://t.co/SNZmR0VPZa",
+              "display_url": "pic.twitter.com/SNZmR0VPZa",
+              "expanded_url": "https://twitter.com/petras_petras/status/1490722276790226944/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1600,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 1490722276790226944,
+              "source_status_id_str": "1490722276790226944",
+              "source_user_id": 1314652063,
+              "source_user_id_str": "1314652063"
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1490722270498758664,
+              "id_str": "1490722270498758664",
+              "indices": [
+                113,
+                136
+              ],
+              "media_url": "http://pbs.twimg.com/media/FLAcAb_XoAgEzyf.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/FLAcAb_XoAgEzyf.jpg",
+              "url": "https://t.co/SNZmR0VPZa",
+              "display_url": "pic.twitter.com/SNZmR0VPZa",
+              "expanded_url": "https://twitter.com/petras_petras/status/1490722276790226944/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1600,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 1490722276790226944,
+              "source_status_id_str": "1490722276790226944",
+              "source_user_id": 1314652063,
+              "source_user_id_str": "1314652063"
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Mon Feb 07 16:21:01 +0000 2022",
+          "id": 1490722276790226944,
+          "id_str": "1490722276790226944",
+          "text": "Join us and make your support for @Ukraine even stronger! See you on 9 Ferbruary in Brussels! https://t.co/SNZmR0VPZa",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "Ukraine",
+                "name": "Ukraine / \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+                "id": 732521058507620356,
+                "id_str": "732521058507620356",
+                "indices": [
+                  34,
+                  42
+                ]
+              }
+            ],
+            "urls": [],
+            "media": [
+              {
+                "id": 1490722270498758664,
+                "id_str": "1490722270498758664",
+                "indices": [
+                  94,
+                  117
+                ],
+                "media_url": "http://pbs.twimg.com/media/FLAcAb_XoAgEzyf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/FLAcAb_XoAgEzyf.jpg",
+                "url": "https://t.co/SNZmR0VPZa",
+                "display_url": "pic.twitter.com/SNZmR0VPZa",
+                "expanded_url": "https://twitter.com/petras_petras/status/1490722276790226944/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "large": {
+                    "w": 1600,
+                    "h": 900,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "extended_entities": {
+            "media": [
+              {
+                "id": 1490722270498758664,
+                "id_str": "1490722270498758664",
+                "indices": [
+                  94,
+                  117
+                ],
+                "media_url": "http://pbs.twimg.com/media/FLAcAb_XoAgEzyf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/FLAcAb_XoAgEzyf.jpg",
+                "url": "https://t.co/SNZmR0VPZa",
+                "display_url": "pic.twitter.com/SNZmR0VPZa",
+                "expanded_url": "https://twitter.com/petras_petras/status/1490722276790226944/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "large": {
+                    "w": 1600,
+                    "h": 900,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 10,
+          "favorite_count": 24,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1488480022360989700/F5kOeoXp_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1488480022360989700/F5kOeoXp_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/712677495074660352/1643651631",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    {
+      "id": 1033763185,
+      "id_str": "1033763185",
+      "name": "Sasha Trubetskoy",
+      "screen_name": "sasha_trub",
+      "location": "Northern Virginia",
+      "description": "I make & share cool maps\nGeospatial business inquiries: https://t.co/iBnGRycDGJ",
+      "url": "https://t.co/bjUY6bSCf6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/bjUY6bSCf6",
+              "expanded_url": "https://sashamaps.net/store/",
+              "display_url": "sashamaps.net/store/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/iBnGRycDGJ",
+              "expanded_url": "https://www.kartographia.com/contact",
+              "display_url": "kartographia.com/contact",
+              "indices": [
+                56,
+                79
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 16850,
+      "friends_count": 665,
+      "listed_count": 148,
+      "created_at": "Tue Dec 25 00:43:05 +0000 2012",
+      "favourites_count": 3835,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5243,
+      "lang": null,
+      "status": {
+        "created_at": "Tue Feb 08 20:25:36 +0000 2022",
+        "id": 1491146214477565952,
+        "id_str": "1491146214477565952",
+        "text": "@Glossophiliac75 ... and December, if you ask me!",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Glossophiliac75",
+              "name": "Lazy Glossophiliac",
+              "id": 2453627084,
+              "id_str": "2453627084",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1491145619221913600,
+        "in_reply_to_status_id_str": "1491145619221913600",
+        "in_reply_to_user_id": 2453627084,
+        "in_reply_to_user_id_str": "2453627084",
+        "in_reply_to_screen_name": "Glossophiliac75",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1040033828604141568/FP66gbMZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040033828604141568/FP66gbMZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1033763185/1527381991",
+      "profile_link_color": "FF691F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    {
+      "id": 1417134608919973890,
+      "id_str": "1417134608919973890",
+      "name": "Raspberry Pi Foundation",
+      "screen_name": "RaspberryPi_org",
+      "location": "Cambridge, UK",
+      "description": "We are a charity that works to put the power of computing and digital making into the hands of people all over the world. Hardware news: @Raspberry_Pi.",
+      "url": "https://t.co/YrTKu3H6qc",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/YrTKu3H6qc",
+              "expanded_url": "https://www.raspberrypi.org/",
+              "display_url": "raspberrypi.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4200,
+      "friends_count": 306,
+      "listed_count": 75,
+      "created_at": "Mon Jul 19 14:50:14 +0000 2021",
+      "favourites_count": 1158,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 490,
+      "lang": null,
+      "status": {
+        "created_at": "Tue Feb 08 12:00:22 +0000 2022",
+        "id": 1491019068169912327,
+        "id_str": "1491019068169912327",
+        "text": "RT @WeAreComputing: \"Mobile phones can now mean that home is no longer a guaranteed safe place. The bullying can still continue.\"\n\nThis #Sa\u2026",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "WeAreComputing",
+              "name": "National Centre for Computing Education",
+              "id": 1054329866974359553,
+              "id_str": "1054329866974359553",
+              "indices": [
+                3,
+                18
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Tue Feb 08 08:45:01 +0000 2022",
+          "id": 1490969908372557824,
+          "id_str": "1490969908372557824",
+          "text": "\"Mobile phones can now mean that home is no longer a guaranteed safe place. The bullying can still continue.\"\n\nThis\u2026 https://t.co/NU7f02uPHk",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/NU7f02uPHk",
+                "expanded_url": "https://twitter.com/i/web/status/1490969908372557824",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 13,
+          "favorite_count": 12,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 13,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1455858969398988800/CrRljr65_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1455858969398988800/CrRljr65_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1417134608919973890/1633502112",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    {
+      "id": 273768729,
+      "id_str": "273768729",
+      "name": "Jim Bennett",
+      "screen_name": "jimbobbennett",
+      "location": "Redmond, WA",
+      "description": "Regional Cloud advocate at @Microsoft, focusing on the Redmond @MSFTReactor. I like polar bears and whisky. Father, husband of @Natbennett987. He/him.",
+      "url": "https://t.co/xHkPlzWBk4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/xHkPlzWBk4",
+              "expanded_url": "http://www.jimbobbennett.io",
+              "display_url": "jimbobbennett.io",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 5742,
+      "friends_count": 933,
+      "listed_count": 174,
+      "created_at": "Tue Mar 29 03:47:09 +0000 2011",
+      "favourites_count": 12234,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 27088,
+      "lang": null,
+      "status": {
+        "created_at": "Tue Feb 08 19:01:26 +0000 2022",
+        "id": 1491125033002885122,
+        "id_str": "1491125033002885122",
+        "text": "RT @runewake2: Today on the Reactor Code Lab I'm diving into containers and how you can run this in them! https://t.co/If0SioAdY1",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "runewake2",
+              "name": "Sam Wronski",
+              "id": 270074189,
+              "id_str": "270074189",
+              "indices": [
+                3,
+                13
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 1491114316442914821,
+              "id_str": "1491114316442914821",
+              "indices": [
+                106,
+                129
+              ],
+              "media_url": "http://pbs.twimg.com/media/FLGAkg8UUAU_KA1.png",
+              "media_url_https": "https://pbs.twimg.com/media/FLGAkg8UUAU_KA1.png",
+              "url": "https://t.co/If0SioAdY1",
+              "display_url": "pic.twitter.com/If0SioAdY1",
+              "expanded_url": "https://twitter.com/runewake2/status/1491116273719455744/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 462,
+                  "h": 355,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 462,
+                  "h": 355,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 462,
+                  "h": 355,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                }
+              },
+              "source_status_id": 1491116273719455744,
+              "source_status_id_str": "1491116273719455744",
+              "source_user_id": 270074189,
+              "source_user_id_str": "270074189"
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1491114316442914821,
+              "id_str": "1491114316442914821",
+              "indices": [
+                106,
+                129
+              ],
+              "media_url": "http://pbs.twimg.com/media/FLGAkg8UUAU_KA1.png",
+              "media_url_https": "https://pbs.twimg.com/media/FLGAkg8UUAU_KA1.png",
+              "url": "https://t.co/If0SioAdY1",
+              "display_url": "pic.twitter.com/If0SioAdY1",
+              "expanded_url": "https://twitter.com/runewake2/status/1491116273719455744/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 462,
+                  "h": 355,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 462,
+                  "h": 355,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 462,
+                  "h": 355,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                }
+              },
+              "source_status_id": 1491116273719455744,
+              "source_status_id_str": "1491116273719455744",
+              "source_user_id": 270074189,
+              "source_user_id_str": "270074189"
+            }
+          ]
+        },
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Tue Feb 08 18:26:37 +0000 2022",
+          "id": 1491116273719455744,
+          "id_str": "1491116273719455744",
+          "text": "Today on the Reactor Code Lab I'm diving into containers and how you can run this in them! https://t.co/If0SioAdY1",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+              {
+                "id": 1491114316442914821,
+                "id_str": "1491114316442914821",
+                "indices": [
+                  91,
+                  114
+                ],
+                "media_url": "http://pbs.twimg.com/media/FLGAkg8UUAU_KA1.png",
+                "media_url_https": "https://pbs.twimg.com/media/FLGAkg8UUAU_KA1.png",
+                "url": "https://t.co/If0SioAdY1",
+                "display_url": "pic.twitter.com/If0SioAdY1",
+                "expanded_url": "https://twitter.com/runewake2/status/1491116273719455744/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "small": {
+                    "w": 462,
+                    "h": 355,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 462,
+                    "h": 355,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 462,
+                    "h": 355,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  }
+                }
+              }
+            ]
+          },
+          "extended_entities": {
+            "media": [
+              {
+                "id": 1491114316442914821,
+                "id_str": "1491114316442914821",
+                "indices": [
+                  91,
+                  114
+                ],
+                "media_url": "http://pbs.twimg.com/media/FLGAkg8UUAU_KA1.png",
+                "media_url_https": "https://pbs.twimg.com/media/FLGAkg8UUAU_KA1.png",
+                "url": "https://t.co/If0SioAdY1",
+                "display_url": "pic.twitter.com/If0SioAdY1",
+                "expanded_url": "https://twitter.com/runewake2/status/1491116273719455744/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "small": {
+                    "w": 462,
+                    "h": 355,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 462,
+                    "h": 355,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 462,
+                    "h": 355,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  }
+                }
+              }
+            ]
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 1,
+          "favorite_count": 2,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1027620413248090112/uy4qYj9s_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1027620413248090112/uy4qYj9s_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/273768729/1593806723",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    {
+      "id": 3369394912,
+      "id_str": "3369394912",
+      "name": "Ukraine Forum",
+      "screen_name": "CHUkraineForum",
+      "location": "London, England",
+      "description": "The Ukraine Forum is a unique programme based at @ChathamHouse providing insight on internal Ukrainian dynamics in key policy areas.",
+      "url": "http://t.co/eEIuNbRop9",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/eEIuNbRop9",
+              "expanded_url": "http://www.chathamhouse.org/about/structure/russia-eurasia-programme/ukraine-forum-project",
+              "display_url": "chathamhouse.org/about/structur\u2026",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2448,
+      "friends_count": 546,
+      "listed_count": 87,
+      "created_at": "Fri Jul 10 15:10:19 +0000 2015",
+      "favourites_count": 1362,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2904,
+      "lang": null,
+      "status": {
+        "created_at": "Mon Feb 07 12:29:55 +0000 2022",
+        "id": 1490664116779954177,
+        "id_str": "1490664116779954177",
+        "text": "RT @ChathamHouse: With Russia's military build-up around Ukraine\u2019s borders, the @CHUkraineForum asked residents in Kharkiv:\n\n\u25aa\ufe0fWhat do you\u2026",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ChathamHouse",
+              "name": "Chatham House",
+              "id": 38630618,
+              "id_str": "38630618",
+              "indices": [
+                3,
+                16
+              ]
+            },
+            {
+              "screen_name": "CHUkraineForum",
+              "name": "Ukraine Forum",
+              "id": 3369394912,
+              "id_str": "3369394912",
+              "indices": [
+                80,
+                95
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Mon Feb 07 11:41:12 +0000 2022",
+          "id": 1490651858079260675,
+          "id_str": "1490651858079260675",
+          "text": "With Russia's military build-up around Ukraine\u2019s borders, the @CHUkraineForum asked residents in Kharkiv:\n\n\u25aa\ufe0fWhat d\u2026 https://t.co/T3qD5jkR7L",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "CHUkraineForum",
+                "name": "Ukraine Forum",
+                "id": 3369394912,
+                "id_str": "3369394912",
+                "indices": [
+                  62,
+                  77
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/T3qD5jkR7L",
+                "expanded_url": "https://twitter.com/i/web/status/1490651858079260675",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 3,
+          "favorite_count": 9,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1216663940215775233/eRkRzfgR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1216663940215775233/eRkRzfgR_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3369394912/1436547797",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    {
+      "id": 897833342,
+      "id_str": "897833342",
+      "name": "Ukrainian World Congress",
+      "screen_name": "UWCongress",
+      "location": "Canada",
+      "description": "International coordinating body promoting the interests of over 20 million Ukrainians in 61 countries",
+      "url": "https://t.co/A6YYEnCWAQ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/A6YYEnCWAQ",
+              "expanded_url": "http://www.ukrainianworldcongress.org",
+              "display_url": "ukrainianworldcongress.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2677,
+      "friends_count": 1264,
+      "listed_count": 49,
+      "created_at": "Mon Oct 22 15:36:52 +0000 2012",
+      "favourites_count": 486,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3475,
+      "lang": null,
+      "status": {
+        "created_at": "Tue Feb 08 20:54:41 +0000 2022",
+        "id": 1491153534196531201,
+        "id_str": "1491153534196531201",
+        "text": "@StanKutcher Thank you Senator @StanKutcher!",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "StanKutcher",
+              "name": "Senator Stan Kutcher",
+              "id": 44686962,
+              "id_str": "44686962",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "StanKutcher",
+              "name": "Senator Stan Kutcher",
+              "id": 44686962,
+              "id_str": "44686962",
+              "indices": [
+                31,
+                43
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1491151668209242126,
+        "in_reply_to_status_id_str": "1491151668209242126",
+        "in_reply_to_user_id": 44686962,
+        "in_reply_to_user_id_str": "44686962",
+        "in_reply_to_screen_name": "StanKutcher",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1312439379420471296/3cF67b8X_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1312439379420471296/3cF67b8X_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/897833342/1643659777",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    }
+  ],
+  "next_cursor": 1723379580288369051,
+  "next_cursor_str": "1723379580288369051",
+  "previous_cursor": 0,
+  "previous_cursor_str": "0",
+  "total_count": null
+}

@@ -1,0 +1,2991 @@
+[
+  {
+    "created_at": "Sun Jan 30 16:36:22 +0000 2022",
+    "id": 1487827036236394510,
+    "id_str": "1487827036236394510",
+    "text": "Great seminar about \"Putin\u2019s aggression and how to overcome fear and anguish with hope\" by @Ukr_Institute \nhttps://t.co/utN1nvSVbq",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Ukr_Institute",
+          "name": "Ukrainian Institute",
+          "id": 4869028191,
+          "id_str": "4869028191",
+          "indices": [
+            91,
+            105
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/utN1nvSVbq",
+          "expanded_url": "https://www.youtube.com/watch?v=tjotMwLsPbs&t=427s",
+          "display_url": "youtube.com/watch?v=tjotMw\u2026",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 107072155,
+      "id_str": "107072155",
+      "name": "Marian Petruk",
+      "screen_name": "marianpetruk",
+      "location": "Lviv, Ukraine",
+      "description": "MSc in Data Science at @UCU_University",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 86,
+      "friends_count": 1151,
+      "listed_count": 1,
+      "created_at": "Thu Jan 21 13:38:31 +0000 2010",
+      "favourites_count": 1875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 61,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jan 11 23:38:57 +0000 2022",
+    "id": 1481048015045644288,
+    "id_str": "1481048015045644288",
+    "text": "@dedushkaa @NextDNS",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "dedushkaa",
+          "name": "Nazar Tokar",
+          "id": 42188679,
+          "id_str": "42188679",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "screen_name": "NextDNS",
+          "name": "NextDNS",
+          "id": 1131313027536564224,
+          "id_str": "1131313027536564224",
+          "indices": [
+            11,
+            19
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1481014729770422275,
+    "in_reply_to_status_id_str": "1481014729770422275",
+    "in_reply_to_user_id": 42188679,
+    "in_reply_to_user_id_str": "42188679",
+    "in_reply_to_screen_name": "dedushkaa",
+    "user": {
+      "id": 107072155,
+      "id_str": "107072155",
+      "name": "Marian Petruk",
+      "screen_name": "marianpetruk",
+      "location": "Lviv, Ukraine",
+      "description": "MSc in Data Science at @UCU_University",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 86,
+      "friends_count": 1151,
+      "listed_count": 1,
+      "created_at": "Thu Jan 21 13:38:31 +0000 2010",
+      "favourites_count": 1875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 61,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Sun Jan 09 21:49:01 +0000 2022",
+    "id": 1480295573454479365,
+    "id_str": "1480295573454479365",
+    "text": "@dobosevych @AWS @AWSSupport @AWSSupport thanks for adding Ukraine to the list\n\nFYI @dobosevych https://t.co/FW8dXKCKQh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "dobosevych",
+          "name": "Oles Dobosevych",
+          "id": 2291793701,
+          "id_str": "2291793701",
+          "indices": [
+            0,
+            11
+          ]
+        },
+        {
+          "screen_name": "AWS",
+          "name": "Amazon Web Services",
+          "id": 793528302140989440,
+          "id_str": "793528302140989440",
+          "indices": [
+            12,
+            16
+          ]
+        },
+        {
+          "screen_name": "AWSSupport",
+          "name": "AWS Support",
+          "id": 120967386,
+          "id_str": "120967386",
+          "indices": [
+            17,
+            28
+          ]
+        },
+        {
+          "screen_name": "AWSSupport",
+          "name": "AWS Support",
+          "id": 120967386,
+          "id_str": "120967386",
+          "indices": [
+            29,
+            40
+          ]
+        },
+        {
+          "screen_name": "dobosevych",
+          "name": "Oles Dobosevych",
+          "id": 2291793701,
+          "id_str": "2291793701",
+          "indices": [
+            84,
+            95
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1480294032119058435,
+          "id_str": "1480294032119058435",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/FIsPlEuWUAMPvLL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FIsPlEuWUAMPvLL.jpg",
+          "url": "https://t.co/FW8dXKCKQh",
+          "display_url": "pic.twitter.com/FW8dXKCKQh",
+          "expanded_url": "https://twitter.com/marianpetruk/status/1480295573454479365/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 509,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1206,
+              "h": 902,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 898,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1480294032119058435,
+          "id_str": "1480294032119058435",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/FIsPlEuWUAMPvLL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FIsPlEuWUAMPvLL.jpg",
+          "url": "https://t.co/FW8dXKCKQh",
+          "display_url": "pic.twitter.com/FW8dXKCKQh",
+          "expanded_url": "https://twitter.com/marianpetruk/status/1480295573454479365/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 509,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1206,
+              "h": 902,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 898,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1469027130382106634,
+    "in_reply_to_status_id_str": "1469027130382106634",
+    "in_reply_to_user_id": 107072155,
+    "in_reply_to_user_id_str": "107072155",
+    "in_reply_to_screen_name": "marianpetruk",
+    "user": {
+      "id": 107072155,
+      "id_str": "107072155",
+      "name": "Marian Petruk",
+      "screen_name": "marianpetruk",
+      "location": "Lviv, Ukraine",
+      "description": "MSc in Data Science at @UCU_University",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 86,
+      "friends_count": 1151,
+      "listed_count": 1,
+      "created_at": "Thu Jan 21 13:38:31 +0000 2010",
+      "favourites_count": 1875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 61,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Dec 31 12:06:21 +0000 2021",
+    "id": 1476887447149727744,
+    "id_str": "1476887447149727744",
+    "text": "@mkbodanu4 @threadreaderapp unroll",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "mkbodanu4",
+          "name": "\u041c\u043e\u043b\u044c\u0444\u0430\u0440 UR5WKM",
+          "id": 483709996,
+          "id_str": "483709996",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "screen_name": "threadreaderapp",
+          "name": "Thread Reader App",
+          "id": 895814938995957760,
+          "id_str": "895814938995957760",
+          "indices": [
+            11,
+            27
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1476534830229860355,
+    "in_reply_to_status_id_str": "1476534830229860355",
+    "in_reply_to_user_id": 483709996,
+    "in_reply_to_user_id_str": "483709996",
+    "in_reply_to_screen_name": "mkbodanu4",
+    "user": {
+      "id": 107072155,
+      "id_str": "107072155",
+      "name": "Marian Petruk",
+      "screen_name": "marianpetruk",
+      "location": "Lviv, Ukraine",
+      "description": "MSc in Data Science at @UCU_University",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 86,
+      "friends_count": 1151,
+      "listed_count": 1,
+      "created_at": "Thu Jan 21 13:38:31 +0000 2010",
+      "favourites_count": 1875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 61,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Dec 25 18:18:03 +0000 2021",
+    "id": 1474806663416881152,
+    "id_str": "1474806663416881152",
+    "text": "RT @Ukraine: Looks like @Tesla really enjoys Ukrainian Shchedryk a.k.a. \u2018Carol of the bells\u2019 \u263a\ufe0f\n\n...isn\u2019t it high time we sent this Christm\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Ukraine",
+          "name": "Ukraine / \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+          "id": 732521058507620356,
+          "id_str": "732521058507620356",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "Tesla",
+          "name": "Tesla",
+          "id": 13298072,
+          "id_str": "13298072",
+          "indices": [
+            24,
+            30
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 107072155,
+      "id_str": "107072155",
+      "name": "Marian Petruk",
+      "screen_name": "marianpetruk",
+      "location": "Lviv, Ukraine",
+      "description": "MSc in Data Science at @UCU_University",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 86,
+      "friends_count": 1151,
+      "listed_count": 1,
+      "created_at": "Thu Jan 21 13:38:31 +0000 2010",
+      "favourites_count": 1875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 61,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Dec 25 18:09:44 +0000 2021",
+      "id": 1474804569305751554,
+      "id_str": "1474804569305751554",
+      "text": "Looks like @Tesla really enjoys Ukrainian Shchedryk a.k.a. \u2018Carol of the bells\u2019 \u263a\ufe0f\n\n...isn\u2019t it high time we sent t\u2026 https://t.co/I65K0uD4ib",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Tesla",
+            "name": "Tesla",
+            "id": 13298072,
+            "id_str": "13298072",
+            "indices": [
+              11,
+              17
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/I65K0uD4ib",
+            "expanded_url": "https://twitter.com/i/web/status/1474804569305751554",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 732521058507620356,
+        "id_str": "732521058507620356",
+        "name": "Ukraine / \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+        "screen_name": "Ukraine",
+        "location": "Ukraine",
+        "description": "Yes, this is the official Twitter account of Ukraine. Nice pics: #BeautifulUkraine\u26f0 Our music: #UkieBeats\ud83c\udfb6",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 286383,
+        "friends_count": 24,
+        "listed_count": 675,
+        "created_at": "Tue May 17 10:40:04 +0000 2016",
+        "favourites_count": 387,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 1690,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1011852346232631296/gw8Yp3dG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1011852346232631296/gw8Yp3dG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/732521058507620356/1625634206",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1474482919502712841,
+      "quoted_status_id_str": "1474482919502712841",
+      "quoted_status": {
+        "created_at": "Fri Dec 24 20:51:37 +0000 2021",
+        "id": 1474482919502712841,
+        "id_str": "1474482919502712841",
+        "text": "S3XY Light Show https://t.co/FuBTAVB8Ju",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1474482842834980870,
+              "id_str": "1474482842834980870",
+              "indices": [
+                16,
+                39
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1474482842834980870/pu/img/GKExRHuFBOgxVneU.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1474482842834980870/pu/img/GKExRHuFBOgxVneU.jpg",
+              "url": "https://t.co/FuBTAVB8Ju",
+              "display_url": "pic.twitter.com/FuBTAVB8Ju",
+              "expanded_url": "https://twitter.com/Tesla/status/1474482919502712841/video/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 425,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 750,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 800,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1474482842834980870,
+              "id_str": "1474482842834980870",
+              "indices": [
+                16,
+                39
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1474482842834980870/pu/img/GKExRHuFBOgxVneU.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1474482842834980870/pu/img/GKExRHuFBOgxVneU.jpg",
+              "url": "https://t.co/FuBTAVB8Ju",
+              "display_url": "pic.twitter.com/FuBTAVB8Ju",
+              "expanded_url": "https://twitter.com/Tesla/status/1474482919502712841/video/1",
+              "type": "video",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 425,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 750,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 800,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  8,
+                  5
+                ],
+                "duration_millis": 49472,
+                "variants": [
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1474482842834980870/pu/vid/432x270/GFBpm04EW48VVvtX.mp4?tag=12"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1474482842834980870/pu/pl/SuuwgtFQG_xfK2MX.m3u8?tag=12&container=fmp4"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1474482842834980870/pu/vid/576x360/0iwYRPmHXK7j-ijn.mp4?tag=12"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1474482842834980870/pu/vid/1152x720/O4cRIW6Hxg1ihXyd.mp4?tag=12"
+                  }
+                ]
+              },
+              "additional_media_info": {
+                "monetizable": false
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 13298072,
+          "id_str": "13298072",
+          "name": "Tesla",
+          "screen_name": "Tesla",
+          "location": "",
+          "description": "electric cars, giant batteries and solar",
+          "url": "https://t.co/EJC6qVVMpC",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/EJC6qVVMpC",
+                  "expanded_url": "https://www.tesla.com",
+                  "display_url": "tesla.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 13004922,
+          "friends_count": 79,
+          "listed_count": 19499,
+          "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+          "favourites_count": 4037,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 7754,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "666666",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1638382546",
+          "profile_link_color": "C90000",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "F5EDF5",
+          "profile_text_color": "555555",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none",
+          "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5847,
+        "favorite_count": 49553,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 238,
+      "favorite_count": 2391,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1474482919502712841,
+    "quoted_status_id_str": "1474482919502712841",
+    "retweet_count": 238,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 09 19:32:15 +0000 2021",
+    "id": 1469027130382106634,
+    "id_str": "1469027130382106634",
+    "text": "@dobosevych @AWS @AWSSupport would you mind let us know why Amazon SageMaker Studio Lab registration form does not\u2026 https://t.co/prGwdeOeBm",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "dobosevych",
+          "name": "Oles Dobosevych",
+          "id": 2291793701,
+          "id_str": "2291793701",
+          "indices": [
+            0,
+            11
+          ]
+        },
+        {
+          "screen_name": "AWS",
+          "name": "Amazon Web Services",
+          "id": 793528302140989440,
+          "id_str": "793528302140989440",
+          "indices": [
+            12,
+            16
+          ]
+        },
+        {
+          "screen_name": "AWSSupport",
+          "name": "AWS Support",
+          "id": 120967386,
+          "id_str": "120967386",
+          "indices": [
+            17,
+            28
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/prGwdeOeBm",
+          "expanded_url": "https://twitter.com/i/web/status/1469027130382106634",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1469007951977492481,
+    "in_reply_to_status_id_str": "1469007951977492481",
+    "in_reply_to_user_id": 2291793701,
+    "in_reply_to_user_id_str": "2291793701",
+    "in_reply_to_screen_name": "dobosevych",
+    "user": {
+      "id": 107072155,
+      "id_str": "107072155",
+      "name": "Marian Petruk",
+      "screen_name": "marianpetruk",
+      "location": "Lviv, Ukraine",
+      "description": "MSc in Data Science at @UCU_University",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 86,
+      "friends_count": 1151,
+      "listed_count": 1,
+      "created_at": "Thu Jan 21 13:38:31 +0000 2010",
+      "favourites_count": 1875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 61,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 09 19:14:03 +0000 2021",
+    "id": 1469022550764269579,
+    "id_str": "1469022550764269579",
+    "text": "@dobosevych @AWS @dobosevych https://t.co/6OVXTqG4uH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "dobosevych",
+          "name": "Oles Dobosevych",
+          "id": 2291793701,
+          "id_str": "2291793701",
+          "indices": [
+            0,
+            11
+          ]
+        },
+        {
+          "screen_name": "AWS",
+          "name": "Amazon Web Services",
+          "id": 793528302140989440,
+          "id_str": "793528302140989440",
+          "indices": [
+            12,
+            16
+          ]
+        },
+        {
+          "screen_name": "dobosevych",
+          "name": "Oles Dobosevych",
+          "id": 2291793701,
+          "id_str": "2291793701",
+          "indices": [
+            17,
+            28
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6OVXTqG4uH",
+          "expanded_url": "https://www.youtube.com/watch?v=6TlNREYMy8s&t=3390s",
+          "display_url": "youtube.com/watch?v=6TlNRE\u2026",
+          "indices": [
+            29,
+            52
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1469007951977492481,
+    "in_reply_to_status_id_str": "1469007951977492481",
+    "in_reply_to_user_id": 2291793701,
+    "in_reply_to_user_id_str": "2291793701",
+    "in_reply_to_screen_name": "dobosevych",
+    "user": {
+      "id": 107072155,
+      "id_str": "107072155",
+      "name": "Marian Petruk",
+      "screen_name": "marianpetruk",
+      "location": "Lviv, Ukraine",
+      "description": "MSc in Data Science at @UCU_University",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 86,
+      "friends_count": 1151,
+      "listed_count": 1,
+      "created_at": "Thu Jan 21 13:38:31 +0000 2010",
+      "favourites_count": 1875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 61,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Tue Nov 30 11:28:36 +0000 2021",
+    "id": 1465643924769357826,
+    "id_str": "1465643924769357826",
+    "text": "@rudysvitlyachok https://t.co/x43z6nhM5Q\n\n\u0406 \u0442\u0443\u0442 \u0442\u0430\u043a\u043e\u0436 \u0456\u043d\u0448\u0456 \u0454 https://t.co/3PzTC3mXKU",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rudysvitlyachok",
+          "name": "\u0428\u0430\u043b\u0435\u043d\u0430 \u0456\u0441\u0442\u043e\u0440\u0438\u043a\u0438\u0446\u044f",
+          "id": 991978144872714240,
+          "id_str": "991978144872714240",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/x43z6nhM5Q",
+          "expanded_url": "https://career.softserveinc.com/en-us/vacancy/creative-copywriter-60487",
+          "display_url": "career.softserveinc.com/en-us/vacancy/\u2026",
+          "indices": [
+            17,
+            40
+          ]
+        },
+        {
+          "url": "https://t.co/3PzTC3mXKU",
+          "expanded_url": "https://career.softserveinc.com/en-us/vacancies/country-ukraine,poland/city-lviv,rivne,i-frankivsk,chernivtsi,dnipro,kyiv,kharkiv,lutsk,ternopil,vinnytsia,kropyvnytskyi,kremenchuk,zaporizhia,uzhhorod,poltava,odesa,cherkasy,khmelnytskyi,zhytomyr,kherson,mykolaiv,chernihiv,sumy,donetsk,luhansk,krakow,lublin,lodz,warsaw,opole,rzeszow,gdansk,katowice,kielce,poznan,szczecin,wroclaw,bialystok,gliwice,poland/direction-marketing,technical-communication/technology-other-marketing,tc/page-2",
+          "display_url": "career.softserveinc.com/en-us/vacancie\u2026",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1465245823407644677,
+    "in_reply_to_status_id_str": "1465245823407644677",
+    "in_reply_to_user_id": 991978144872714240,
+    "in_reply_to_user_id_str": "991978144872714240",
+    "in_reply_to_screen_name": "rudysvitlyachok",
+    "user": {
+      "id": 107072155,
+      "id_str": "107072155",
+      "name": "Marian Petruk",
+      "screen_name": "marianpetruk",
+      "location": "Lviv, Ukraine",
+      "description": "MSc in Data Science at @UCU_University",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 86,
+      "friends_count": 1151,
+      "listed_count": 1,
+      "created_at": "Thu Jan 21 13:38:31 +0000 2010",
+      "favourites_count": 1875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 61,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "uk"
+  },
+  {
+    "created_at": "Tue Nov 16 12:45:23 +0000 2021",
+    "id": 1460589815666286592,
+    "id_str": "1460589815666286592",
+    "text": "@2ironichna4u https://t.co/JRSnAuAzLI",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "2ironichna4u",
+          "name": "\u0441\u0456\u043b\u044c\u0441\u044c\u043a\u0430 \u0435\u043a\u0437\u0430\u043b\u044c\u0442\u043e\u0432\u0430\u043d\u0430 \u0436\u0456\u043d\u043e\u0447\u043a\u0430",
+          "id": 799610377122131972,
+          "id_str": "799610377122131972",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JRSnAuAzLI",
+          "expanded_url": "https://twitter.com/elonmusk/status/1347165127036977153?t=ntVY87Q4E3pgWaKN8y_IMQ&s=19",
+          "display_url": "twitter.com/elonmusk/statu\u2026",
+          "indices": [
+            14,
+            37
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1460555551323131913,
+    "in_reply_to_status_id_str": "1460555551323131913",
+    "in_reply_to_user_id": 799610377122131972,
+    "in_reply_to_user_id_str": "799610377122131972",
+    "in_reply_to_screen_name": "2ironichna4u",
+    "user": {
+      "id": 107072155,
+      "id_str": "107072155",
+      "name": "Marian Petruk",
+      "screen_name": "marianpetruk",
+      "location": "Lviv, Ukraine",
+      "description": "MSc in Data Science at @UCU_University",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 86,
+      "friends_count": 1151,
+      "listed_count": 1,
+      "created_at": "Thu Jan 21 13:38:31 +0000 2010",
+      "favourites_count": 1875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 61,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1347165127036977153,
+    "quoted_status_id_str": "1347165127036977153",
+    "quoted_status": {
+      "created_at": "Thu Jan 07 12:56:10 +0000 2021",
+      "id": 1347165127036977153,
+      "id_str": "1347165127036977153",
+      "text": "Use Signal",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 44196397,
+        "id_str": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 73151739,
+        "friends_count": 106,
+        "listed_count": 86072,
+        "created_at": "Tue Jun 02 20:12:29 +0000 2009",
+        "favourites_count": 11979,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 16814,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1489375145684873217/3VYnFrzx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1489375145684873217/3VYnFrzx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1576183471",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 43111,
+      "favorite_count": 350493,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Wed Nov 03 16:53:58 +0000 2021",
+    "id": 1455941333198249987,
+    "id_str": "1455941333198249987",
+    "text": "@arunninghacker https://t.co/BqAWhlQ6G3 +1",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "arunninghacker",
+          "name": "Vlad Styran",
+          "id": 71491713,
+          "id_str": "71491713",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BqAWhlQ6G3",
+          "expanded_url": "https://zaxid.net/kiberpolitsiya_vikrila_17_richnogo_rozrobnika_shhe_odnogo_feykovogo_zastosunku_diya_n1529553",
+          "display_url": "zaxid.net/kiberpolitsiya\u2026",
+          "indices": [
+            16,
+            39
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1454474123363618821,
+    "in_reply_to_status_id_str": "1454474123363618821",
+    "in_reply_to_user_id": 71491713,
+    "in_reply_to_user_id_str": "71491713",
+    "in_reply_to_screen_name": "arunninghacker",
+    "user": {
+      "id": 107072155,
+      "id_str": "107072155",
+      "name": "Marian Petruk",
+      "screen_name": "marianpetruk",
+      "location": "Lviv, Ukraine",
+      "description": "MSc in Data Science at @UCU_University",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 86,
+      "friends_count": 1151,
+      "listed_count": 1,
+      "created_at": "Thu Jan 21 13:38:31 +0000 2010",
+      "favourites_count": 1875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 61,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Mon Oct 04 22:34:49 +0000 2021",
+    "id": 1445155473146122248,
+    "id_str": "1445155473146122248",
+    "text": "RT @Cloudflare: \u201cFacebook can't be down, can it?\u201d, we thought, for a second. Well it can, and here's how.  https://t.co/V0fW2n0a4I",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Cloudflare",
+          "name": "Cloudflare",
+          "id": 32499999,
+          "id_str": "32499999",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/V0fW2n0a4I",
+          "expanded_url": "https://cfl.re/3l7WBQs",
+          "display_url": "cfl.re/3l7WBQs",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 107072155,
+      "id_str": "107072155",
+      "name": "Marian Petruk",
+      "screen_name": "marianpetruk",
+      "location": "Lviv, Ukraine",
+      "description": "MSc in Data Science at @UCU_University",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 86,
+      "friends_count": 1151,
+      "listed_count": 1,
+      "created_at": "Thu Jan 21 13:38:31 +0000 2010",
+      "favourites_count": 1875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 61,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Oct 04 21:16:25 +0000 2021",
+      "id": 1445135742561394692,
+      "id_str": "1445135742561394692",
+      "text": "\u201cFacebook can't be down, can it?\u201d, we thought, for a second. Well it can, and here's how.  https://t.co/V0fW2n0a4I",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/V0fW2n0a4I",
+            "expanded_url": "https://cfl.re/3l7WBQs",
+            "display_url": "cfl.re/3l7WBQs",
+            "indices": [
+              91,
+              114
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 32499999,
+        "id_str": "32499999",
+        "name": "Cloudflare",
+        "screen_name": "Cloudflare",
+        "location": "Offices in SF, London, Singapore, Austin, Champaign, and more",
+        "description": "At Cloudflare, we have our eyes set on an ambitious goal \u2014 to help build a better Internet.",
+        "url": "https://t.co/6WEmQXq6G9",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/6WEmQXq6G9",
+                "expanded_url": "https://www.cloudflare.com/",
+                "display_url": "cloudflare.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 140157,
+        "friends_count": 5874,
+        "listed_count": 2218,
+        "created_at": "Fri Apr 17 17:58:28 +0000 2009",
+        "favourites_count": 5013,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 42635,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1313131647315910666/opulcRqc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1313131647315910666/opulcRqc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/32499999/1633372158",
+        "profile_link_color": "007FD9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "CFE5EE",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3009,
+      "favorite_count": 5308,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3009,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Oct 04 20:15:40 +0000 2021",
+    "id": 1445120454818156554,
+    "id_str": "1445120454818156554",
+    "text": "@evacide https://t.co/4czprGTLm6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "evacide",
+          "name": "Eva",
+          "id": 14707266,
+          "id_str": "14707266",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4czprGTLm6",
+          "expanded_url": "https://isbgpsafeyet.com/",
+          "display_url": "isbgpsafeyet.com",
+          "indices": [
+            9,
+            32
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1445120009299120128,
+    "in_reply_to_status_id_str": "1445120009299120128",
+    "in_reply_to_user_id": 14707266,
+    "in_reply_to_user_id_str": "14707266",
+    "in_reply_to_screen_name": "evacide",
+    "user": {
+      "id": 107072155,
+      "id_str": "107072155",
+      "name": "Marian Petruk",
+      "screen_name": "marianpetruk",
+      "location": "Lviv, Ukraine",
+      "description": "MSc in Data Science at @UCU_University",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 86,
+      "friends_count": 1151,
+      "listed_count": 1,
+      "created_at": "Thu Jan 21 13:38:31 +0000 2010",
+      "favourites_count": 1875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 61,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 34,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Sat Sep 11 16:58:56 +0000 2021",
+    "id": 1436736026349903873,
+    "id_str": "1436736026349903873",
+    "text": "@andriybalan \u041f\u0440\u043e\u043a\u043b\u0456\u043a\u0430\u0432\u0448\u0438 \u0430\u0432\u0442\u043e\u0440\u0456\u0432 \u043c\u043e\u0436\u043d\u0430 \u043f\u0440\u0438\u043d\u0430\u0439\u043c\u0456 \u0434\u043b\u044f \u0441\u0435\u0431\u0435 \u0437\u0430\u0431\u043b\u043e\u043a\u0443\u0432\u0430\u0442\u0438 https://t.co/0IEGY6V5qp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "andriybalan",
+          "name": "andriy balan",
+          "id": 87571692,
+          "id_str": "87571692",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1436736023736856585,
+          "id_str": "1436736023736856585",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_BPzSrXsAk6JcA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_BPzSrXsAk6JcA.jpg",
+          "url": "https://t.co/0IEGY6V5qp",
+          "display_url": "pic.twitter.com/0IEGY6V5qp",
+          "expanded_url": "https://twitter.com/marianpetruk/status/1436736026349903873/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1581,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 525,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 926,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1436736023736856585,
+          "id_str": "1436736023736856585",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_BPzSrXsAk6JcA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_BPzSrXsAk6JcA.jpg",
+          "url": "https://t.co/0IEGY6V5qp",
+          "display_url": "pic.twitter.com/0IEGY6V5qp",
+          "expanded_url": "https://twitter.com/marianpetruk/status/1436736026349903873/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1581,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 525,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 926,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1436182240459780119,
+    "in_reply_to_status_id_str": "1436182240459780119",
+    "in_reply_to_user_id": 87571692,
+    "in_reply_to_user_id_str": "87571692",
+    "in_reply_to_screen_name": "andriybalan",
+    "user": {
+      "id": 107072155,
+      "id_str": "107072155",
+      "name": "Marian Petruk",
+      "screen_name": "marianpetruk",
+      "location": "Lviv, Ukraine",
+      "description": "MSc in Data Science at @UCU_University",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 86,
+      "friends_count": 1151,
+      "listed_count": 1,
+      "created_at": "Thu Jan 21 13:38:31 +0000 2010",
+      "favourites_count": 1875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 61,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "uk"
+  },
+  {
+    "created_at": "Sat Aug 14 22:44:06 +0000 2021",
+    "id": 1426676030845210625,
+    "id_str": "1426676030845210625",
+    "text": "RT @eliistender10: This is mesmerising https://t.co/6QPT9qrXxH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "eliistender10",
+          "name": "Giles Paley-Phillips",
+          "id": 23483816,
+          "id_str": "23483816",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1425881878528135169,
+          "id_str": "1425881878528135169",
+          "indices": [
+            39,
+            62
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425881878528135169/pu/img/Wup8fYUmXwLNix6g.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425881878528135169/pu/img/Wup8fYUmXwLNix6g.jpg",
+          "url": "https://t.co/6QPT9qrXxH",
+          "display_url": "pic.twitter.com/6QPT9qrXxH",
+          "expanded_url": "https://twitter.com/eliistender10/status/1425882449343664130/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1425882449343664130,
+          "source_status_id_str": "1425882449343664130",
+          "source_user_id": 23483816,
+          "source_user_id_str": "23483816"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1425881878528135169,
+          "id_str": "1425881878528135169",
+          "indices": [
+            39,
+            62
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425881878528135169/pu/img/Wup8fYUmXwLNix6g.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425881878528135169/pu/img/Wup8fYUmXwLNix6g.jpg",
+          "url": "https://t.co/6QPT9qrXxH",
+          "display_url": "pic.twitter.com/6QPT9qrXxH",
+          "expanded_url": "https://twitter.com/eliistender10/status/1425882449343664130/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1425882449343664130,
+          "source_status_id_str": "1425882449343664130",
+          "source_user_id": 23483816,
+          "source_user_id_str": "23483816",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 139904,
+            "variants": [
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1425881878528135169/pu/vid/480x852/Q2OqIsEQ0PG9HuK5.mp4?tag=12"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1425881878528135169/pu/vid/720x1280/vjLPhISQXNrZrWNw.mp4?tag=12"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1425881878528135169/pu/vid/320x568/53in5ZVRcpStHQMW.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1425881878528135169/pu/pl/9FdME_HNLLrXE4df.m3u8?tag=12&container=fmp4"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "id": 23483816,
+              "id_str": "23483816",
+              "name": "Giles Paley-Phillips",
+              "screen_name": "eliistender10",
+              "location": "Seaford ",
+              "description": "I write stuff. One half of @blankpod @forgotpodcast and #ALittleBitOfPositive Play guitar in @burnthousemusic Ambassador for @actionaidUK follow @cpfc #BeKind",
+              "url": null,
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "protected": false,
+              "followers_count": 404771,
+              "friends_count": 132079,
+              "listed_count": 1631,
+              "created_at": "Mon Mar 09 19:16:42 +0000 2009",
+              "favourites_count": 402602,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": true,
+              "verified": true,
+              "statuses_count": 119218,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "ABB8C2",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+              "profile_background_tile": true,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1483506076666535945/j7_VP_M2_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1483506076666535945/j7_VP_M2_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/23483816/1642497214",
+              "profile_link_color": "19CF86",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "D4D0C1",
+              "profile_text_color": "050005",
+              "profile_use_background_image": false,
+              "has_extended_profile": true,
+              "default_profile": false,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none",
+              "withheld_in_countries": []
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 107072155,
+      "id_str": "107072155",
+      "name": "Marian Petruk",
+      "screen_name": "marianpetruk",
+      "location": "Lviv, Ukraine",
+      "description": "MSc in Data Science at @UCU_University",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 86,
+      "friends_count": 1151,
+      "listed_count": 1,
+      "created_at": "Thu Jan 21 13:38:31 +0000 2010",
+      "favourites_count": 1875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 61,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Aug 12 18:10:42 +0000 2021",
+      "id": 1425882449343664130,
+      "id_str": "1425882449343664130",
+      "text": "This is mesmerising https://t.co/6QPT9qrXxH",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1425881878528135169,
+            "id_str": "1425881878528135169",
+            "indices": [
+              20,
+              43
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425881878528135169/pu/img/Wup8fYUmXwLNix6g.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425881878528135169/pu/img/Wup8fYUmXwLNix6g.jpg",
+            "url": "https://t.co/6QPT9qrXxH",
+            "display_url": "pic.twitter.com/6QPT9qrXxH",
+            "expanded_url": "https://twitter.com/eliistender10/status/1425882449343664130/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1425881878528135169,
+            "id_str": "1425881878528135169",
+            "indices": [
+              20,
+              43
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425881878528135169/pu/img/Wup8fYUmXwLNix6g.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425881878528135169/pu/img/Wup8fYUmXwLNix6g.jpg",
+            "url": "https://t.co/6QPT9qrXxH",
+            "display_url": "pic.twitter.com/6QPT9qrXxH",
+            "expanded_url": "https://twitter.com/eliistender10/status/1425882449343664130/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "duration_millis": 139904,
+              "variants": [
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1425881878528135169/pu/vid/480x852/Q2OqIsEQ0PG9HuK5.mp4?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1425881878528135169/pu/vid/720x1280/vjLPhISQXNrZrWNw.mp4?tag=12"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1425881878528135169/pu/vid/320x568/53in5ZVRcpStHQMW.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1425881878528135169/pu/pl/9FdME_HNLLrXE4df.m3u8?tag=12&container=fmp4"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 23483816,
+        "id_str": "23483816",
+        "name": "Giles Paley-Phillips",
+        "screen_name": "eliistender10",
+        "location": "Seaford ",
+        "description": "I write stuff. One half of @blankpod @forgotpodcast and #ALittleBitOfPositive Play guitar in @burnthousemusic Ambassador for @actionaidUK follow @cpfc #BeKind",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 404771,
+        "friends_count": 132079,
+        "listed_count": 1631,
+        "created_at": "Mon Mar 09 19:16:42 +0000 2009",
+        "favourites_count": 402602,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 119218,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1483506076666535945/j7_VP_M2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1483506076666535945/j7_VP_M2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23483816/1642497214",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "D4D0C1",
+        "profile_text_color": "050005",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 20904,
+      "favorite_count": 88541,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 20904,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jul 13 11:38:31 +0000 2021",
+    "id": 1414912118898446341,
+    "id_str": "1414912118898446341",
+    "text": "@yarkalyba \u0417\u043d\u0430\u0454\u043c\u043e \u044f\u043a \u0442\u0430\u043a\u0435 \u043c\u043e\u0436\u043d\u0430 \u043f\u043e\u0444\u0456\u043a\u0441\u0430\u0442\u0438 :)",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "yarkalyba",
+          "name": "Yarka",
+          "id": 843366303587061760,
+          "id_str": "843366303587061760",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414864113818296322,
+    "in_reply_to_status_id_str": "1414864113818296322",
+    "in_reply_to_user_id": 843366303587061760,
+    "in_reply_to_user_id_str": "843366303587061760",
+    "in_reply_to_screen_name": "yarkalyba",
+    "user": {
+      "id": 107072155,
+      "id_str": "107072155",
+      "name": "Marian Petruk",
+      "screen_name": "marianpetruk",
+      "location": "Lviv, Ukraine",
+      "description": "MSc in Data Science at @UCU_University",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 86,
+      "friends_count": 1151,
+      "listed_count": 1,
+      "created_at": "Thu Jan 21 13:38:31 +0000 2010",
+      "favourites_count": 1875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 61,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "uk"
+  },
+  {
+    "created_at": "Wed Jul 07 12:19:28 +0000 2021",
+    "id": 1412748096086413316,
+    "id_str": "1412748096086413316",
+    "text": "@DErlebnis \u042f\u043a\u0430 \u043d\u0430\u0437\u0432\u0430 \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043a\u0443?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "DErlebnis",
+          "name": "Somewhat di\u025f\u025ferent \ud83c\uddfa\ud83c\udde6\ud83c\udde9\ud83c\uddea",
+          "id": 114663743,
+          "id_str": "114663743",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1412731837437337613,
+    "in_reply_to_status_id_str": "1412731837437337613",
+    "in_reply_to_user_id": 114663743,
+    "in_reply_to_user_id_str": "114663743",
+    "in_reply_to_screen_name": "DErlebnis",
+    "user": {
+      "id": 107072155,
+      "id_str": "107072155",
+      "name": "Marian Petruk",
+      "screen_name": "marianpetruk",
+      "location": "Lviv, Ukraine",
+      "description": "MSc in Data Science at @UCU_University",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 86,
+      "friends_count": 1151,
+      "listed_count": 1,
+      "created_at": "Thu Jan 21 13:38:31 +0000 2010",
+      "favourites_count": 1875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 61,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "uk"
+  },
+  {
+    "created_at": "Tue Jun 29 23:56:41 +0000 2021",
+    "id": 1410024452092481536,
+    "id_str": "1410024452092481536",
+    "text": "@yarkalyba \u0427\u0430\u0441\u043e\u043c \u0431\u0430\u0437\u0438 \u043d\u0435 \u0431\u0430\u0437\u0438 \u0434\u0430\u043d\u0438\u0445 \u043f\u0440\u043e \u043a\u043b\u0456\u0454\u043d\u0442\u0456\u0432? \u0428\u0443\u043a\u0430\u044e \u0437\u0430\u0440\u0430\u0437 \u043b\u044e\u0434\u0435\u0439 \u044f\u043a\u0456 \u043c\u0430\u044e\u0442\u044c \u0441\u043f\u0440\u0430\u0456\u0438 \u0437 \u0430\u043d\u0430\u043b\u0456\u0442\u0438\u043a\u043e\u044e \u0434\u0430\u043d\u0438\u0445 \u043f\u0440\u043e \u043a\u043b\u0456\u0454\u043d\u0442\u0456\u0432 \u0431\u0456\u0437\u043d\u0435\u0441\u0443",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "yarkalyba",
+          "name": "Yarka",
+          "id": 843366303587061760,
+          "id_str": "843366303587061760",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1409985707540615168,
+    "in_reply_to_status_id_str": "1409985707540615168",
+    "in_reply_to_user_id": 843366303587061760,
+    "in_reply_to_user_id_str": "843366303587061760",
+    "in_reply_to_screen_name": "yarkalyba",
+    "user": {
+      "id": 107072155,
+      "id_str": "107072155",
+      "name": "Marian Petruk",
+      "screen_name": "marianpetruk",
+      "location": "Lviv, Ukraine",
+      "description": "MSc in Data Science at @UCU_University",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 86,
+      "friends_count": 1151,
+      "listed_count": 1,
+      "created_at": "Thu Jan 21 13:38:31 +0000 2010",
+      "favourites_count": 1875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 61,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "uk"
+  },
+  {
+    "created_at": "Mon Jun 28 14:21:29 +0000 2021",
+    "id": 1409517312881958920,
+    "id_str": "1409517312881958920",
+    "text": "@DErlebnis \u0423 \u043c\u043e\u0454\u043c\u0443 \u0454, \u0456\u043c\u043e\u0432\u0456\u0440\u043d\u043e \u0449\u043e \u043a\u043e\u043c\u043f'\u044e\u0442\u0435\u0440\u0438 2020/21 \u0440\u043e\u043a\u0443 \u0432\u0438\u043f\u0443\u0441\u043a\u0443 \u0439\u043e\u0433\u043e \u043c\u0430\u044e\u0442\u044c",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "DErlebnis",
+          "name": "Somewhat di\u025f\u025ferent \ud83c\uddfa\ud83c\udde6\ud83c\udde9\ud83c\uddea",
+          "id": 114663743,
+          "id_str": "114663743",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1409219587707637763,
+    "in_reply_to_status_id_str": "1409219587707637763",
+    "in_reply_to_user_id": 114663743,
+    "in_reply_to_user_id_str": "114663743",
+    "in_reply_to_screen_name": "DErlebnis",
+    "user": {
+      "id": 107072155,
+      "id_str": "107072155",
+      "name": "Marian Petruk",
+      "screen_name": "marianpetruk",
+      "location": "Lviv, Ukraine",
+      "description": "MSc in Data Science at @UCU_University",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 86,
+      "friends_count": 1151,
+      "listed_count": 1,
+      "created_at": "Thu Jan 21 13:38:31 +0000 2010",
+      "favourites_count": 1875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 61,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "uk"
+  },
+  {
+    "created_at": "Fri Jun 25 23:02:43 +0000 2021",
+    "id": 1408561322858582016,
+    "id_str": "1408561322858582016",
+    "text": "@pidlisorik \u0430\u043b\u0435 \u0441\u043f\u0435\u0440\u0448\u0443 \u043c\u043e\u0436\u043d\u0430 \u0441\u043f\u0440\u043e\u0431\u0443\u0432\u0430\u0442\u0438 https://t.co/9egGFm0CSL",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "pidlisorik",
+          "name": "\u0430\u043d\u0434\u0435\u0440\u0444\u043e\u0440\u0435\u0441\u0442\ud83e\uddad",
+          "id": 2512210169,
+          "id_str": "2512210169",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9egGFm0CSL",
+          "expanded_url": "https://www.google.com/intl/en/drive/download/",
+          "display_url": "google.com/intl/en/drive/\u2026",
+          "indices": [
+            40,
+            63
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1408556711670075392,
+    "in_reply_to_status_id_str": "1408556711670075392",
+    "in_reply_to_user_id": 107072155,
+    "in_reply_to_user_id_str": "107072155",
+    "in_reply_to_screen_name": "marianpetruk",
+    "user": {
+      "id": 107072155,
+      "id_str": "107072155",
+      "name": "Marian Petruk",
+      "screen_name": "marianpetruk",
+      "location": "Lviv, Ukraine",
+      "description": "MSc in Data Science at @UCU_University",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 86,
+      "friends_count": 1151,
+      "listed_count": 1,
+      "created_at": "Thu Jan 21 13:38:31 +0000 2010",
+      "favourites_count": 1875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 61,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "uk"
+  },
+  {
+    "created_at": "Fri Jun 25 22:44:24 +0000 2021",
+    "id": 1408556711670075392,
+    "id_str": "1408556711670075392",
+    "text": "@pidlisorik https://t.co/a49a5dfPFy this is the tool",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "pidlisorik",
+          "name": "\u0430\u043d\u0434\u0435\u0440\u0444\u043e\u0440\u0435\u0441\u0442\ud83e\uddad",
+          "id": 2512210169,
+          "id_str": "2512210169",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/a49a5dfPFy",
+          "expanded_url": "https://rclone.org/drive/",
+          "display_url": "rclone.org/drive/",
+          "indices": [
+            12,
+            35
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1408528779740319754,
+    "in_reply_to_status_id_str": "1408528779740319754",
+    "in_reply_to_user_id": 2512210169,
+    "in_reply_to_user_id_str": "2512210169",
+    "in_reply_to_screen_name": "pidlisorik",
+    "user": {
+      "id": 107072155,
+      "id_str": "107072155",
+      "name": "Marian Petruk",
+      "screen_name": "marianpetruk",
+      "location": "Lviv, Ukraine",
+      "description": "MSc in Data Science at @UCU_University",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 86,
+      "friends_count": 1151,
+      "listed_count": 1,
+      "created_at": "Thu Jan 21 13:38:31 +0000 2010",
+      "favourites_count": 1875,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 61,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346863414082215937/aIdQP3Q__normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]
