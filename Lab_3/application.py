@@ -1,5 +1,5 @@
 from flask import Flask, request, render_template
-import Lab_3.map_maker as mp
+import map_maker as mp
 
 app = Flask(__name__)
 

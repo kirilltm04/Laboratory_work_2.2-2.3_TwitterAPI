@@ -1,14 +1,13 @@
 """
 Parsing the locations of friends on Twitter and making a map of them.
 """
-import json
 from geopy.geocoders import Nominatim
 from geopy.exc import GeocoderUnavailable
 import folium
 import requests
 
 
-def get_json_file_from_api(username: str) -> json:
+def get_json_file_from_api(username: str) -> dict:
     """
     Function to get the json file with locations of a certain username
     :param username: str (username)
